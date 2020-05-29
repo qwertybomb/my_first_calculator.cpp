@@ -5217,207 +5217,207 @@ else if(num1 == 50 && sign == '+' && num2 == 50)
 else if(num1 == 0 && sign == '-' && num2 == 0) 
     std::cout << 0 << '-' << 0 << " = " << 0 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 1) 
-    std::cout << 0 << '-' << 1 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 1 << " = " << -1 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 2) 
-    std::cout << 0 << '-' << 2 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 2 << " = " << -2 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 3) 
-    std::cout << 0 << '-' << 3 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 3 << " = " << -3 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 4) 
-    std::cout << 0 << '-' << 4 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 4 << " = " << -4 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 5) 
-    std::cout << 0 << '-' << 5 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 5 << " = " << -5 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 6) 
-    std::cout << 0 << '-' << 6 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 6 << " = " << -6 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 7) 
-    std::cout << 0 << '-' << 7 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 7 << " = " << -7 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 8) 
-    std::cout << 0 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 8 << " = " << -8 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 9) 
-    std::cout << 0 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 9 << " = " << -9 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 10) 
-    std::cout << 0 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 10 << " = " << -10 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 11) 
-    std::cout << 0 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 11 << " = " << -11 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 12) 
-    std::cout << 0 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 12 << " = " << -12 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 13) 
-    std::cout << 0 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 13 << " = " << -13 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 14) 
-    std::cout << 0 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 14 << " = " << -14 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 15) 
-    std::cout << 0 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 15 << " = " << -15 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 16) 
-    std::cout << 0 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 16 << " = " << -16 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 17) 
-    std::cout << 0 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 17 << " = " << -17 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 18) 
-    std::cout << 0 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 18 << " = " << -18 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 19) 
-    std::cout << 0 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 19 << " = " << -19 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 20) 
-    std::cout << 0 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 20 << " = " << -20 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 21) 
-    std::cout << 0 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 21 << " = " << -21 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 22) 
-    std::cout << 0 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 22 << " = " << -22 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 23) 
-    std::cout << 0 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 23 << " = " << -23 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 24) 
-    std::cout << 0 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 24 << " = " << -24 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 25) 
-    std::cout << 0 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 25 << " = " << -25 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 26) 
-    std::cout << 0 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 26 << " = " << -26 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 27) 
-    std::cout << 0 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 27 << " = " << -27 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 28) 
-    std::cout << 0 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 28 << " = " << -28 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 29) 
-    std::cout << 0 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 29 << " = " << -29 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 30) 
-    std::cout << 0 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 30 << " = " << -30 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 31) 
-    std::cout << 0 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 31 << " = " << -31 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 32) 
-    std::cout << 0 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 32 << " = " << -32 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 33) 
-    std::cout << 0 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 33 << " = " << -33 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 34) 
-    std::cout << 0 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 34 << " = " << -34 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 35) 
-    std::cout << 0 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 35 << " = " << -35 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 36) 
-    std::cout << 0 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 36 << " = " << -36 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 37) 
-    std::cout << 0 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 37 << " = " << -37 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 38) 
-    std::cout << 0 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 38 << " = " << -38 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 39) 
-    std::cout << 0 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 39 << " = " << -39 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 40) 
-    std::cout << 0 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 40 << " = " << -40 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 41) 
-    std::cout << 0 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 41 << " = " << -41 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 42) 
-    std::cout << 0 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 42 << " = " << -42 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 43) 
-    std::cout << 0 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 43 << " = " << -43 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 44) 
-    std::cout << 0 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 44 << " = " << -44 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 45) 
-    std::cout << 0 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 45 << " = " << -45 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 46) 
-    std::cout << 0 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 46 << " = " << -46 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 47) 
-    std::cout << 0 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 47 << " = " << -47 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 48) 
-    std::cout << 0 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 48 << " = " << -48 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 49) 
-    std::cout << 0 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 49 << " = " << -49 << std::endl;
 else if(num1 == 0 && sign == '-' && num2 == 50) 
-    std::cout << 0 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 0 << '-' << 50 << " = " << -50 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 0) 
     std::cout << 1 << '-' << 0 << " = " << 1 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 1) 
     std::cout << 1 << '-' << 1 << " = " << 0 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 2) 
-    std::cout << 1 << '-' << 2 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 2 << " = " << -1 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 3) 
-    std::cout << 1 << '-' << 3 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 3 << " = " << -2 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 4) 
-    std::cout << 1 << '-' << 4 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 4 << " = " << -3 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 5) 
-    std::cout << 1 << '-' << 5 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 5 << " = " << -4 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 6) 
-    std::cout << 1 << '-' << 6 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 6 << " = " << -5 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 7) 
-    std::cout << 1 << '-' << 7 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 7 << " = " << -6 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 8) 
-    std::cout << 1 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 8 << " = " << -7 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 9) 
-    std::cout << 1 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 9 << " = " << -8 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 10) 
-    std::cout << 1 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 10 << " = " << -9 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 11) 
-    std::cout << 1 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 11 << " = " << -10 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 12) 
-    std::cout << 1 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 12 << " = " << -11 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 13) 
-    std::cout << 1 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 13 << " = " << -12 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 14) 
-    std::cout << 1 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 14 << " = " << -13 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 15) 
-    std::cout << 1 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 15 << " = " << -14 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 16) 
-    std::cout << 1 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 16 << " = " << -15 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 17) 
-    std::cout << 1 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 17 << " = " << -16 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 18) 
-    std::cout << 1 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 18 << " = " << -17 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 19) 
-    std::cout << 1 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 19 << " = " << -18 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 20) 
-    std::cout << 1 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 20 << " = " << -19 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 21) 
-    std::cout << 1 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 21 << " = " << -20 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 22) 
-    std::cout << 1 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 22 << " = " << -21 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 23) 
-    std::cout << 1 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 23 << " = " << -22 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 24) 
-    std::cout << 1 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 24 << " = " << -23 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 25) 
-    std::cout << 1 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 25 << " = " << -24 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 26) 
-    std::cout << 1 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 26 << " = " << -25 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 27) 
-    std::cout << 1 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 27 << " = " << -26 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 28) 
-    std::cout << 1 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 28 << " = " << -27 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 29) 
-    std::cout << 1 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 29 << " = " << -28 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 30) 
-    std::cout << 1 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 30 << " = " << -29 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 31) 
-    std::cout << 1 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 31 << " = " << -30 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 32) 
-    std::cout << 1 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 32 << " = " << -31 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 33) 
-    std::cout << 1 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 33 << " = " << -32 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 34) 
-    std::cout << 1 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 34 << " = " << -33 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 35) 
-    std::cout << 1 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 35 << " = " << -34 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 36) 
-    std::cout << 1 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 36 << " = " << -35 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 37) 
-    std::cout << 1 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 37 << " = " << -36 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 38) 
-    std::cout << 1 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 38 << " = " << -37 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 39) 
-    std::cout << 1 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 39 << " = " << -38 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 40) 
-    std::cout << 1 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 40 << " = " << -39 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 41) 
-    std::cout << 1 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 41 << " = " << -40 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 42) 
-    std::cout << 1 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 42 << " = " << -41 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 43) 
-    std::cout << 1 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 43 << " = " << -42 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 44) 
-    std::cout << 1 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 44 << " = " << -43 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 45) 
-    std::cout << 1 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 45 << " = " << -44 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 46) 
-    std::cout << 1 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 46 << " = " << -45 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 47) 
-    std::cout << 1 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 47 << " = " << -46 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 48) 
-    std::cout << 1 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 48 << " = " << -47 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 49) 
-    std::cout << 1 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 49 << " = " << -48 << std::endl;
 else if(num1 == 1 && sign == '-' && num2 == 50) 
-    std::cout << 1 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 1 << '-' << 50 << " = " << -49 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 0) 
     std::cout << 2 << '-' << 0 << " = " << 2 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 1) 
@@ -5425,101 +5425,101 @@ else if(num1 == 2 && sign == '-' && num2 == 1)
 else if(num1 == 2 && sign == '-' && num2 == 2) 
     std::cout << 2 << '-' << 2 << " = " << 0 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 3) 
-    std::cout << 2 << '-' << 3 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 3 << " = " << -1 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 4) 
-    std::cout << 2 << '-' << 4 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 4 << " = " << -2 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 5) 
-    std::cout << 2 << '-' << 5 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 5 << " = " << -3 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 6) 
-    std::cout << 2 << '-' << 6 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 6 << " = " << -4 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 7) 
-    std::cout << 2 << '-' << 7 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 7 << " = " << -5 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 8) 
-    std::cout << 2 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 8 << " = " << -6 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 9) 
-    std::cout << 2 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 9 << " = " << -7 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 10) 
-    std::cout << 2 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 10 << " = " << -8 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 11) 
-    std::cout << 2 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 11 << " = " << -9 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 12) 
-    std::cout << 2 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 12 << " = " << -10 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 13) 
-    std::cout << 2 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 13 << " = " << -11 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 14) 
-    std::cout << 2 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 14 << " = " << -12 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 15) 
-    std::cout << 2 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 15 << " = " << -13 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 16) 
-    std::cout << 2 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 16 << " = " << -14 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 17) 
-    std::cout << 2 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 17 << " = " << -15 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 18) 
-    std::cout << 2 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 18 << " = " << -16 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 19) 
-    std::cout << 2 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 19 << " = " << -17 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 20) 
-    std::cout << 2 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 20 << " = " << -18 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 21) 
-    std::cout << 2 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 21 << " = " << -19 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 22) 
-    std::cout << 2 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 22 << " = " << -20 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 23) 
-    std::cout << 2 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 23 << " = " << -21 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 24) 
-    std::cout << 2 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 24 << " = " << -22 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 25) 
-    std::cout << 2 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 25 << " = " << -23 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 26) 
-    std::cout << 2 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 26 << " = " << -24 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 27) 
-    std::cout << 2 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 27 << " = " << -25 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 28) 
-    std::cout << 2 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 28 << " = " << -26 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 29) 
-    std::cout << 2 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 29 << " = " << -27 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 30) 
-    std::cout << 2 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 30 << " = " << -28 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 31) 
-    std::cout << 2 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 31 << " = " << -29 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 32) 
-    std::cout << 2 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 32 << " = " << -30 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 33) 
-    std::cout << 2 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 33 << " = " << -31 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 34) 
-    std::cout << 2 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 34 << " = " << -32 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 35) 
-    std::cout << 2 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 35 << " = " << -33 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 36) 
-    std::cout << 2 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 36 << " = " << -34 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 37) 
-    std::cout << 2 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 37 << " = " << -35 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 38) 
-    std::cout << 2 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 38 << " = " << -36 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 39) 
-    std::cout << 2 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 39 << " = " << -37 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 40) 
-    std::cout << 2 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 40 << " = " << -38 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 41) 
-    std::cout << 2 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 41 << " = " << -39 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 42) 
-    std::cout << 2 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 42 << " = " << -40 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 43) 
-    std::cout << 2 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 43 << " = " << -41 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 44) 
-    std::cout << 2 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 44 << " = " << -42 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 45) 
-    std::cout << 2 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 45 << " = " << -43 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 46) 
-    std::cout << 2 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 46 << " = " << -44 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 47) 
-    std::cout << 2 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 47 << " = " << -45 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 48) 
-    std::cout << 2 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 48 << " = " << -46 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 49) 
-    std::cout << 2 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 49 << " = " << -47 << std::endl;
 else if(num1 == 2 && sign == '-' && num2 == 50) 
-    std::cout << 2 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 2 << '-' << 50 << " = " << -48 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 0) 
     std::cout << 3 << '-' << 0 << " = " << 3 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 1) 
@@ -5529,99 +5529,99 @@ else if(num1 == 3 && sign == '-' && num2 == 2)
 else if(num1 == 3 && sign == '-' && num2 == 3) 
     std::cout << 3 << '-' << 3 << " = " << 0 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 4) 
-    std::cout << 3 << '-' << 4 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 4 << " = " << -1 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 5) 
-    std::cout << 3 << '-' << 5 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 5 << " = " << -2 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 6) 
-    std::cout << 3 << '-' << 6 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 6 << " = " << -3 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 7) 
-    std::cout << 3 << '-' << 7 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 7 << " = " << -4 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 8) 
-    std::cout << 3 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 8 << " = " << -5 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 9) 
-    std::cout << 3 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 9 << " = " << -6 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 10) 
-    std::cout << 3 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 10 << " = " << -7 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 11) 
-    std::cout << 3 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 11 << " = " << -8 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 12) 
-    std::cout << 3 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 12 << " = " << -9 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 13) 
-    std::cout << 3 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 13 << " = " << -10 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 14) 
-    std::cout << 3 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 14 << " = " << -11 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 15) 
-    std::cout << 3 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 15 << " = " << -12 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 16) 
-    std::cout << 3 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 16 << " = " << -13 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 17) 
-    std::cout << 3 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 17 << " = " << -14 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 18) 
-    std::cout << 3 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 18 << " = " << -15 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 19) 
-    std::cout << 3 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 19 << " = " << -16 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 20) 
-    std::cout << 3 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 20 << " = " << -17 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 21) 
-    std::cout << 3 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 21 << " = " << -18 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 22) 
-    std::cout << 3 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 22 << " = " << -19 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 23) 
-    std::cout << 3 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 23 << " = " << -20 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 24) 
-    std::cout << 3 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 24 << " = " << -21 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 25) 
-    std::cout << 3 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 25 << " = " << -22 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 26) 
-    std::cout << 3 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 26 << " = " << -23 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 27) 
-    std::cout << 3 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 27 << " = " << -24 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 28) 
-    std::cout << 3 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 28 << " = " << -25 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 29) 
-    std::cout << 3 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 29 << " = " << -26 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 30) 
-    std::cout << 3 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 30 << " = " << -27 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 31) 
-    std::cout << 3 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 31 << " = " << -28 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 32) 
-    std::cout << 3 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 32 << " = " << -29 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 33) 
-    std::cout << 3 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 33 << " = " << -30 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 34) 
-    std::cout << 3 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 34 << " = " << -31 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 35) 
-    std::cout << 3 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 35 << " = " << -32 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 36) 
-    std::cout << 3 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 36 << " = " << -33 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 37) 
-    std::cout << 3 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 37 << " = " << -34 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 38) 
-    std::cout << 3 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 38 << " = " << -35 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 39) 
-    std::cout << 3 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 39 << " = " << -36 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 40) 
-    std::cout << 3 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 40 << " = " << -37 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 41) 
-    std::cout << 3 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 41 << " = " << -38 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 42) 
-    std::cout << 3 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 42 << " = " << -39 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 43) 
-    std::cout << 3 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 43 << " = " << -40 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 44) 
-    std::cout << 3 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 44 << " = " << -41 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 45) 
-    std::cout << 3 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 45 << " = " << -42 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 46) 
-    std::cout << 3 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 46 << " = " << -43 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 47) 
-    std::cout << 3 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 47 << " = " << -44 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 48) 
-    std::cout << 3 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 48 << " = " << -45 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 49) 
-    std::cout << 3 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 49 << " = " << -46 << std::endl;
 else if(num1 == 3 && sign == '-' && num2 == 50) 
-    std::cout << 3 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 3 << '-' << 50 << " = " << -47 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 0) 
     std::cout << 4 << '-' << 0 << " = " << 4 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 1) 
@@ -5633,97 +5633,97 @@ else if(num1 == 4 && sign == '-' && num2 == 3)
 else if(num1 == 4 && sign == '-' && num2 == 4) 
     std::cout << 4 << '-' << 4 << " = " << 0 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 5) 
-    std::cout << 4 << '-' << 5 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 5 << " = " << -1 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 6) 
-    std::cout << 4 << '-' << 6 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 6 << " = " << -2 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 7) 
-    std::cout << 4 << '-' << 7 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 7 << " = " << -3 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 8) 
-    std::cout << 4 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 8 << " = " << -4 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 9) 
-    std::cout << 4 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 9 << " = " << -5 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 10) 
-    std::cout << 4 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 10 << " = " << -6 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 11) 
-    std::cout << 4 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 11 << " = " << -7 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 12) 
-    std::cout << 4 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 12 << " = " << -8 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 13) 
-    std::cout << 4 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 13 << " = " << -9 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 14) 
-    std::cout << 4 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 14 << " = " << -10 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 15) 
-    std::cout << 4 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 15 << " = " << -11 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 16) 
-    std::cout << 4 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 16 << " = " << -12 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 17) 
-    std::cout << 4 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 17 << " = " << -13 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 18) 
-    std::cout << 4 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 18 << " = " << -14 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 19) 
-    std::cout << 4 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 19 << " = " << -15 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 20) 
-    std::cout << 4 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 20 << " = " << -16 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 21) 
-    std::cout << 4 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 21 << " = " << -17 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 22) 
-    std::cout << 4 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 22 << " = " << -18 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 23) 
-    std::cout << 4 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 23 << " = " << -19 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 24) 
-    std::cout << 4 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 24 << " = " << -20 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 25) 
-    std::cout << 4 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 25 << " = " << -21 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 26) 
-    std::cout << 4 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 26 << " = " << -22 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 27) 
-    std::cout << 4 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 27 << " = " << -23 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 28) 
-    std::cout << 4 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 28 << " = " << -24 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 29) 
-    std::cout << 4 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 29 << " = " << -25 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 30) 
-    std::cout << 4 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 30 << " = " << -26 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 31) 
-    std::cout << 4 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 31 << " = " << -27 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 32) 
-    std::cout << 4 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 32 << " = " << -28 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 33) 
-    std::cout << 4 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 33 << " = " << -29 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 34) 
-    std::cout << 4 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 34 << " = " << -30 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 35) 
-    std::cout << 4 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 35 << " = " << -31 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 36) 
-    std::cout << 4 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 36 << " = " << -32 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 37) 
-    std::cout << 4 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 37 << " = " << -33 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 38) 
-    std::cout << 4 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 38 << " = " << -34 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 39) 
-    std::cout << 4 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 39 << " = " << -35 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 40) 
-    std::cout << 4 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 40 << " = " << -36 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 41) 
-    std::cout << 4 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 41 << " = " << -37 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 42) 
-    std::cout << 4 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 42 << " = " << -38 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 43) 
-    std::cout << 4 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 43 << " = " << -39 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 44) 
-    std::cout << 4 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 44 << " = " << -40 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 45) 
-    std::cout << 4 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 45 << " = " << -41 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 46) 
-    std::cout << 4 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 46 << " = " << -42 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 47) 
-    std::cout << 4 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 47 << " = " << -43 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 48) 
-    std::cout << 4 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 48 << " = " << -44 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 49) 
-    std::cout << 4 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 49 << " = " << -45 << std::endl;
 else if(num1 == 4 && sign == '-' && num2 == 50) 
-    std::cout << 4 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 4 << '-' << 50 << " = " << -46 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 0) 
     std::cout << 5 << '-' << 0 << " = " << 5 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 1) 
@@ -5737,95 +5737,95 @@ else if(num1 == 5 && sign == '-' && num2 == 4)
 else if(num1 == 5 && sign == '-' && num2 == 5) 
     std::cout << 5 << '-' << 5 << " = " << 0 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 6) 
-    std::cout << 5 << '-' << 6 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 6 << " = " << -1 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 7) 
-    std::cout << 5 << '-' << 7 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 7 << " = " << -2 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 8) 
-    std::cout << 5 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 8 << " = " << -3 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 9) 
-    std::cout << 5 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 9 << " = " << -4 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 10) 
-    std::cout << 5 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 10 << " = " << -5 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 11) 
-    std::cout << 5 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 11 << " = " << -6 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 12) 
-    std::cout << 5 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 12 << " = " << -7 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 13) 
-    std::cout << 5 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 13 << " = " << -8 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 14) 
-    std::cout << 5 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 14 << " = " << -9 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 15) 
-    std::cout << 5 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 15 << " = " << -10 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 16) 
-    std::cout << 5 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 16 << " = " << -11 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 17) 
-    std::cout << 5 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 17 << " = " << -12 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 18) 
-    std::cout << 5 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 18 << " = " << -13 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 19) 
-    std::cout << 5 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 19 << " = " << -14 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 20) 
-    std::cout << 5 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 20 << " = " << -15 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 21) 
-    std::cout << 5 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 21 << " = " << -16 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 22) 
-    std::cout << 5 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 22 << " = " << -17 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 23) 
-    std::cout << 5 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 23 << " = " << -18 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 24) 
-    std::cout << 5 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 24 << " = " << -19 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 25) 
-    std::cout << 5 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 25 << " = " << -20 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 26) 
-    std::cout << 5 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 26 << " = " << -21 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 27) 
-    std::cout << 5 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 27 << " = " << -22 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 28) 
-    std::cout << 5 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 28 << " = " << -23 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 29) 
-    std::cout << 5 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 29 << " = " << -24 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 30) 
-    std::cout << 5 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 30 << " = " << -25 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 31) 
-    std::cout << 5 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 31 << " = " << -26 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 32) 
-    std::cout << 5 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 32 << " = " << -27 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 33) 
-    std::cout << 5 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 33 << " = " << -28 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 34) 
-    std::cout << 5 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 34 << " = " << -29 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 35) 
-    std::cout << 5 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 35 << " = " << -30 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 36) 
-    std::cout << 5 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 36 << " = " << -31 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 37) 
-    std::cout << 5 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 37 << " = " << -32 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 38) 
-    std::cout << 5 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 38 << " = " << -33 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 39) 
-    std::cout << 5 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 39 << " = " << -34 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 40) 
-    std::cout << 5 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 40 << " = " << -35 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 41) 
-    std::cout << 5 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 41 << " = " << -36 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 42) 
-    std::cout << 5 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 42 << " = " << -37 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 43) 
-    std::cout << 5 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 43 << " = " << -38 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 44) 
-    std::cout << 5 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 44 << " = " << -39 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 45) 
-    std::cout << 5 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 45 << " = " << -40 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 46) 
-    std::cout << 5 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 46 << " = " << -41 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 47) 
-    std::cout << 5 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 47 << " = " << -42 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 48) 
-    std::cout << 5 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 48 << " = " << -43 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 49) 
-    std::cout << 5 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 49 << " = " << -44 << std::endl;
 else if(num1 == 5 && sign == '-' && num2 == 50) 
-    std::cout << 5 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 5 << '-' << 50 << " = " << -45 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 0) 
     std::cout << 6 << '-' << 0 << " = " << 6 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 1) 
@@ -5841,93 +5841,93 @@ else if(num1 == 6 && sign == '-' && num2 == 5)
 else if(num1 == 6 && sign == '-' && num2 == 6) 
     std::cout << 6 << '-' << 6 << " = " << 0 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 7) 
-    std::cout << 6 << '-' << 7 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 7 << " = " << -1 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 8) 
-    std::cout << 6 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 8 << " = " << -2 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 9) 
-    std::cout << 6 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 9 << " = " << -3 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 10) 
-    std::cout << 6 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 10 << " = " << -4 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 11) 
-    std::cout << 6 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 11 << " = " << -5 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 12) 
-    std::cout << 6 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 12 << " = " << -6 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 13) 
-    std::cout << 6 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 13 << " = " << -7 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 14) 
-    std::cout << 6 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 14 << " = " << -8 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 15) 
-    std::cout << 6 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 15 << " = " << -9 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 16) 
-    std::cout << 6 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 16 << " = " << -10 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 17) 
-    std::cout << 6 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 17 << " = " << -11 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 18) 
-    std::cout << 6 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 18 << " = " << -12 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 19) 
-    std::cout << 6 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 19 << " = " << -13 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 20) 
-    std::cout << 6 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 20 << " = " << -14 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 21) 
-    std::cout << 6 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 21 << " = " << -15 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 22) 
-    std::cout << 6 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 22 << " = " << -16 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 23) 
-    std::cout << 6 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 23 << " = " << -17 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 24) 
-    std::cout << 6 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 24 << " = " << -18 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 25) 
-    std::cout << 6 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 25 << " = " << -19 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 26) 
-    std::cout << 6 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 26 << " = " << -20 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 27) 
-    std::cout << 6 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 27 << " = " << -21 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 28) 
-    std::cout << 6 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 28 << " = " << -22 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 29) 
-    std::cout << 6 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 29 << " = " << -23 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 30) 
-    std::cout << 6 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 30 << " = " << -24 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 31) 
-    std::cout << 6 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 31 << " = " << -25 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 32) 
-    std::cout << 6 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 32 << " = " << -26 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 33) 
-    std::cout << 6 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 33 << " = " << -27 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 34) 
-    std::cout << 6 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 34 << " = " << -28 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 35) 
-    std::cout << 6 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 35 << " = " << -29 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 36) 
-    std::cout << 6 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 36 << " = " << -30 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 37) 
-    std::cout << 6 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 37 << " = " << -31 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 38) 
-    std::cout << 6 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 38 << " = " << -32 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 39) 
-    std::cout << 6 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 39 << " = " << -33 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 40) 
-    std::cout << 6 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 40 << " = " << -34 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 41) 
-    std::cout << 6 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 41 << " = " << -35 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 42) 
-    std::cout << 6 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 42 << " = " << -36 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 43) 
-    std::cout << 6 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 43 << " = " << -37 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 44) 
-    std::cout << 6 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 44 << " = " << -38 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 45) 
-    std::cout << 6 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 45 << " = " << -39 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 46) 
-    std::cout << 6 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 46 << " = " << -40 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 47) 
-    std::cout << 6 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 47 << " = " << -41 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 48) 
-    std::cout << 6 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 48 << " = " << -42 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 49) 
-    std::cout << 6 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 49 << " = " << -43 << std::endl;
 else if(num1 == 6 && sign == '-' && num2 == 50) 
-    std::cout << 6 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 6 << '-' << 50 << " = " << -44 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 0) 
     std::cout << 7 << '-' << 0 << " = " << 7 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 1) 
@@ -5945,91 +5945,91 @@ else if(num1 == 7 && sign == '-' && num2 == 6)
 else if(num1 == 7 && sign == '-' && num2 == 7) 
     std::cout << 7 << '-' << 7 << " = " << 0 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 8) 
-    std::cout << 7 << '-' << 8 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 8 << " = " << -1 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 9) 
-    std::cout << 7 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 9 << " = " << -2 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 10) 
-    std::cout << 7 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 10 << " = " << -3 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 11) 
-    std::cout << 7 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 11 << " = " << -4 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 12) 
-    std::cout << 7 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 12 << " = " << -5 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 13) 
-    std::cout << 7 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 13 << " = " << -6 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 14) 
-    std::cout << 7 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 14 << " = " << -7 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 15) 
-    std::cout << 7 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 15 << " = " << -8 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 16) 
-    std::cout << 7 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 16 << " = " << -9 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 17) 
-    std::cout << 7 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 17 << " = " << -10 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 18) 
-    std::cout << 7 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 18 << " = " << -11 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 19) 
-    std::cout << 7 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 19 << " = " << -12 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 20) 
-    std::cout << 7 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 20 << " = " << -13 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 21) 
-    std::cout << 7 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 21 << " = " << -14 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 22) 
-    std::cout << 7 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 22 << " = " << -15 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 23) 
-    std::cout << 7 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 23 << " = " << -16 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 24) 
-    std::cout << 7 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 24 << " = " << -17 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 25) 
-    std::cout << 7 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 25 << " = " << -18 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 26) 
-    std::cout << 7 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 26 << " = " << -19 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 27) 
-    std::cout << 7 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 27 << " = " << -20 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 28) 
-    std::cout << 7 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 28 << " = " << -21 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 29) 
-    std::cout << 7 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 29 << " = " << -22 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 30) 
-    std::cout << 7 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 30 << " = " << -23 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 31) 
-    std::cout << 7 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 31 << " = " << -24 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 32) 
-    std::cout << 7 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 32 << " = " << -25 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 33) 
-    std::cout << 7 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 33 << " = " << -26 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 34) 
-    std::cout << 7 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 34 << " = " << -27 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 35) 
-    std::cout << 7 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 35 << " = " << -28 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 36) 
-    std::cout << 7 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 36 << " = " << -29 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 37) 
-    std::cout << 7 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 37 << " = " << -30 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 38) 
-    std::cout << 7 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 38 << " = " << -31 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 39) 
-    std::cout << 7 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 39 << " = " << -32 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 40) 
-    std::cout << 7 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 40 << " = " << -33 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 41) 
-    std::cout << 7 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 41 << " = " << -34 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 42) 
-    std::cout << 7 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 42 << " = " << -35 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 43) 
-    std::cout << 7 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 43 << " = " << -36 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 44) 
-    std::cout << 7 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 44 << " = " << -37 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 45) 
-    std::cout << 7 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 45 << " = " << -38 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 46) 
-    std::cout << 7 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 46 << " = " << -39 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 47) 
-    std::cout << 7 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 47 << " = " << -40 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 48) 
-    std::cout << 7 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 48 << " = " << -41 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 49) 
-    std::cout << 7 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 49 << " = " << -42 << std::endl;
 else if(num1 == 7 && sign == '-' && num2 == 50) 
-    std::cout << 7 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 7 << '-' << 50 << " = " << -43 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 0) 
     std::cout << 8 << '-' << 0 << " = " << 8 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 1) 
@@ -6049,89 +6049,89 @@ else if(num1 == 8 && sign == '-' && num2 == 7)
 else if(num1 == 8 && sign == '-' && num2 == 8) 
     std::cout << 8 << '-' << 8 << " = " << 0 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 9) 
-    std::cout << 8 << '-' << 9 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 9 << " = " << -1 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 10) 
-    std::cout << 8 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 10 << " = " << -2 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 11) 
-    std::cout << 8 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 11 << " = " << -3 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 12) 
-    std::cout << 8 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 12 << " = " << -4 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 13) 
-    std::cout << 8 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 13 << " = " << -5 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 14) 
-    std::cout << 8 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 14 << " = " << -6 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 15) 
-    std::cout << 8 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 15 << " = " << -7 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 16) 
-    std::cout << 8 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 16 << " = " << -8 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 17) 
-    std::cout << 8 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 17 << " = " << -9 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 18) 
-    std::cout << 8 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 18 << " = " << -10 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 19) 
-    std::cout << 8 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 19 << " = " << -11 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 20) 
-    std::cout << 8 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 20 << " = " << -12 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 21) 
-    std::cout << 8 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 21 << " = " << -13 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 22) 
-    std::cout << 8 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 22 << " = " << -14 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 23) 
-    std::cout << 8 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 23 << " = " << -15 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 24) 
-    std::cout << 8 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 24 << " = " << -16 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 25) 
-    std::cout << 8 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 25 << " = " << -17 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 26) 
-    std::cout << 8 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 26 << " = " << -18 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 27) 
-    std::cout << 8 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 27 << " = " << -19 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 28) 
-    std::cout << 8 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 28 << " = " << -20 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 29) 
-    std::cout << 8 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 29 << " = " << -21 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 30) 
-    std::cout << 8 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 30 << " = " << -22 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 31) 
-    std::cout << 8 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 31 << " = " << -23 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 32) 
-    std::cout << 8 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 32 << " = " << -24 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 33) 
-    std::cout << 8 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 33 << " = " << -25 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 34) 
-    std::cout << 8 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 34 << " = " << -26 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 35) 
-    std::cout << 8 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 35 << " = " << -27 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 36) 
-    std::cout << 8 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 36 << " = " << -28 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 37) 
-    std::cout << 8 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 37 << " = " << -29 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 38) 
-    std::cout << 8 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 38 << " = " << -30 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 39) 
-    std::cout << 8 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 39 << " = " << -31 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 40) 
-    std::cout << 8 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 40 << " = " << -32 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 41) 
-    std::cout << 8 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 41 << " = " << -33 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 42) 
-    std::cout << 8 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 42 << " = " << -34 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 43) 
-    std::cout << 8 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 43 << " = " << -35 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 44) 
-    std::cout << 8 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 44 << " = " << -36 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 45) 
-    std::cout << 8 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 45 << " = " << -37 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 46) 
-    std::cout << 8 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 46 << " = " << -38 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 47) 
-    std::cout << 8 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 47 << " = " << -39 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 48) 
-    std::cout << 8 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 48 << " = " << -40 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 49) 
-    std::cout << 8 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 49 << " = " << -41 << std::endl;
 else if(num1 == 8 && sign == '-' && num2 == 50) 
-    std::cout << 8 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 8 << '-' << 50 << " = " << -42 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 0) 
     std::cout << 9 << '-' << 0 << " = " << 9 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 1) 
@@ -6153,87 +6153,87 @@ else if(num1 == 9 && sign == '-' && num2 == 8)
 else if(num1 == 9 && sign == '-' && num2 == 9) 
     std::cout << 9 << '-' << 9 << " = " << 0 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 10) 
-    std::cout << 9 << '-' << 10 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 10 << " = " << -1 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 11) 
-    std::cout << 9 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 11 << " = " << -2 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 12) 
-    std::cout << 9 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 12 << " = " << -3 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 13) 
-    std::cout << 9 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 13 << " = " << -4 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 14) 
-    std::cout << 9 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 14 << " = " << -5 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 15) 
-    std::cout << 9 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 15 << " = " << -6 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 16) 
-    std::cout << 9 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 16 << " = " << -7 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 17) 
-    std::cout << 9 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 17 << " = " << -8 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 18) 
-    std::cout << 9 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 18 << " = " << -9 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 19) 
-    std::cout << 9 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 19 << " = " << -10 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 20) 
-    std::cout << 9 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 20 << " = " << -11 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 21) 
-    std::cout << 9 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 21 << " = " << -12 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 22) 
-    std::cout << 9 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 22 << " = " << -13 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 23) 
-    std::cout << 9 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 23 << " = " << -14 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 24) 
-    std::cout << 9 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 24 << " = " << -15 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 25) 
-    std::cout << 9 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 25 << " = " << -16 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 26) 
-    std::cout << 9 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 26 << " = " << -17 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 27) 
-    std::cout << 9 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 27 << " = " << -18 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 28) 
-    std::cout << 9 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 28 << " = " << -19 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 29) 
-    std::cout << 9 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 29 << " = " << -20 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 30) 
-    std::cout << 9 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 30 << " = " << -21 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 31) 
-    std::cout << 9 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 31 << " = " << -22 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 32) 
-    std::cout << 9 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 32 << " = " << -23 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 33) 
-    std::cout << 9 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 33 << " = " << -24 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 34) 
-    std::cout << 9 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 34 << " = " << -25 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 35) 
-    std::cout << 9 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 35 << " = " << -26 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 36) 
-    std::cout << 9 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 36 << " = " << -27 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 37) 
-    std::cout << 9 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 37 << " = " << -28 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 38) 
-    std::cout << 9 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 38 << " = " << -29 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 39) 
-    std::cout << 9 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 39 << " = " << -30 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 40) 
-    std::cout << 9 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 40 << " = " << -31 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 41) 
-    std::cout << 9 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 41 << " = " << -32 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 42) 
-    std::cout << 9 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 42 << " = " << -33 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 43) 
-    std::cout << 9 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 43 << " = " << -34 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 44) 
-    std::cout << 9 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 44 << " = " << -35 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 45) 
-    std::cout << 9 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 45 << " = " << -36 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 46) 
-    std::cout << 9 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 46 << " = " << -37 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 47) 
-    std::cout << 9 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 47 << " = " << -38 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 48) 
-    std::cout << 9 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 48 << " = " << -39 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 49) 
-    std::cout << 9 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 49 << " = " << -40 << std::endl;
 else if(num1 == 9 && sign == '-' && num2 == 50) 
-    std::cout << 9 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 9 << '-' << 50 << " = " << -41 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 0) 
     std::cout << 10 << '-' << 0 << " = " << 10 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 1) 
@@ -6257,85 +6257,85 @@ else if(num1 == 10 && sign == '-' && num2 == 9)
 else if(num1 == 10 && sign == '-' && num2 == 10) 
     std::cout << 10 << '-' << 10 << " = " << 0 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 11) 
-    std::cout << 10 << '-' << 11 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 11 << " = " << -1 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 12) 
-    std::cout << 10 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 12 << " = " << -2 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 13) 
-    std::cout << 10 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 13 << " = " << -3 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 14) 
-    std::cout << 10 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 14 << " = " << -4 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 15) 
-    std::cout << 10 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 15 << " = " << -5 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 16) 
-    std::cout << 10 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 16 << " = " << -6 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 17) 
-    std::cout << 10 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 17 << " = " << -7 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 18) 
-    std::cout << 10 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 18 << " = " << -8 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 19) 
-    std::cout << 10 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 19 << " = " << -9 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 20) 
-    std::cout << 10 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 20 << " = " << -10 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 21) 
-    std::cout << 10 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 21 << " = " << -11 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 22) 
-    std::cout << 10 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 22 << " = " << -12 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 23) 
-    std::cout << 10 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 23 << " = " << -13 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 24) 
-    std::cout << 10 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 24 << " = " << -14 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 25) 
-    std::cout << 10 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 25 << " = " << -15 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 26) 
-    std::cout << 10 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 26 << " = " << -16 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 27) 
-    std::cout << 10 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 27 << " = " << -17 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 28) 
-    std::cout << 10 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 28 << " = " << -18 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 29) 
-    std::cout << 10 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 29 << " = " << -19 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 30) 
-    std::cout << 10 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 30 << " = " << -20 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 31) 
-    std::cout << 10 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 31 << " = " << -21 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 32) 
-    std::cout << 10 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 32 << " = " << -22 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 33) 
-    std::cout << 10 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 33 << " = " << -23 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 34) 
-    std::cout << 10 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 34 << " = " << -24 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 35) 
-    std::cout << 10 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 35 << " = " << -25 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 36) 
-    std::cout << 10 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 36 << " = " << -26 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 37) 
-    std::cout << 10 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 37 << " = " << -27 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 38) 
-    std::cout << 10 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 38 << " = " << -28 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 39) 
-    std::cout << 10 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 39 << " = " << -29 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 40) 
-    std::cout << 10 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 40 << " = " << -30 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 41) 
-    std::cout << 10 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 41 << " = " << -31 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 42) 
-    std::cout << 10 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 42 << " = " << -32 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 43) 
-    std::cout << 10 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 43 << " = " << -33 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 44) 
-    std::cout << 10 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 44 << " = " << -34 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 45) 
-    std::cout << 10 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 45 << " = " << -35 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 46) 
-    std::cout << 10 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 46 << " = " << -36 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 47) 
-    std::cout << 10 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 47 << " = " << -37 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 48) 
-    std::cout << 10 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 48 << " = " << -38 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 49) 
-    std::cout << 10 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 49 << " = " << -39 << std::endl;
 else if(num1 == 10 && sign == '-' && num2 == 50) 
-    std::cout << 10 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 10 << '-' << 50 << " = " << -40 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 0) 
     std::cout << 11 << '-' << 0 << " = " << 11 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 1) 
@@ -6361,83 +6361,83 @@ else if(num1 == 11 && sign == '-' && num2 == 10)
 else if(num1 == 11 && sign == '-' && num2 == 11) 
     std::cout << 11 << '-' << 11 << " = " << 0 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 12) 
-    std::cout << 11 << '-' << 12 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 12 << " = " << -1 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 13) 
-    std::cout << 11 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 13 << " = " << -2 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 14) 
-    std::cout << 11 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 14 << " = " << -3 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 15) 
-    std::cout << 11 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 15 << " = " << -4 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 16) 
-    std::cout << 11 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 16 << " = " << -5 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 17) 
-    std::cout << 11 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 17 << " = " << -6 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 18) 
-    std::cout << 11 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 18 << " = " << -7 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 19) 
-    std::cout << 11 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 19 << " = " << -8 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 20) 
-    std::cout << 11 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 20 << " = " << -9 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 21) 
-    std::cout << 11 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 21 << " = " << -10 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 22) 
-    std::cout << 11 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 22 << " = " << -11 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 23) 
-    std::cout << 11 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 23 << " = " << -12 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 24) 
-    std::cout << 11 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 24 << " = " << -13 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 25) 
-    std::cout << 11 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 25 << " = " << -14 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 26) 
-    std::cout << 11 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 26 << " = " << -15 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 27) 
-    std::cout << 11 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 27 << " = " << -16 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 28) 
-    std::cout << 11 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 28 << " = " << -17 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 29) 
-    std::cout << 11 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 29 << " = " << -18 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 30) 
-    std::cout << 11 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 30 << " = " << -19 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 31) 
-    std::cout << 11 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 31 << " = " << -20 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 32) 
-    std::cout << 11 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 32 << " = " << -21 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 33) 
-    std::cout << 11 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 33 << " = " << -22 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 34) 
-    std::cout << 11 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 34 << " = " << -23 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 35) 
-    std::cout << 11 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 35 << " = " << -24 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 36) 
-    std::cout << 11 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 36 << " = " << -25 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 37) 
-    std::cout << 11 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 37 << " = " << -26 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 38) 
-    std::cout << 11 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 38 << " = " << -27 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 39) 
-    std::cout << 11 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 39 << " = " << -28 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 40) 
-    std::cout << 11 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 40 << " = " << -29 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 41) 
-    std::cout << 11 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 41 << " = " << -30 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 42) 
-    std::cout << 11 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 42 << " = " << -31 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 43) 
-    std::cout << 11 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 43 << " = " << -32 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 44) 
-    std::cout << 11 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 44 << " = " << -33 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 45) 
-    std::cout << 11 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 45 << " = " << -34 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 46) 
-    std::cout << 11 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 46 << " = " << -35 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 47) 
-    std::cout << 11 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 47 << " = " << -36 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 48) 
-    std::cout << 11 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 48 << " = " << -37 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 49) 
-    std::cout << 11 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 49 << " = " << -38 << std::endl;
 else if(num1 == 11 && sign == '-' && num2 == 50) 
-    std::cout << 11 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 11 << '-' << 50 << " = " << -39 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 0) 
     std::cout << 12 << '-' << 0 << " = " << 12 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 1) 
@@ -6465,81 +6465,81 @@ else if(num1 == 12 && sign == '-' && num2 == 11)
 else if(num1 == 12 && sign == '-' && num2 == 12) 
     std::cout << 12 << '-' << 12 << " = " << 0 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 13) 
-    std::cout << 12 << '-' << 13 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 13 << " = " << -1 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 14) 
-    std::cout << 12 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 14 << " = " << -2 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 15) 
-    std::cout << 12 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 15 << " = " << -3 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 16) 
-    std::cout << 12 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 16 << " = " << -4 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 17) 
-    std::cout << 12 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 17 << " = " << -5 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 18) 
-    std::cout << 12 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 18 << " = " << -6 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 19) 
-    std::cout << 12 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 19 << " = " << -7 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 20) 
-    std::cout << 12 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 20 << " = " << -8 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 21) 
-    std::cout << 12 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 21 << " = " << -9 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 22) 
-    std::cout << 12 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 22 << " = " << -10 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 23) 
-    std::cout << 12 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 23 << " = " << -11 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 24) 
-    std::cout << 12 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 24 << " = " << -12 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 25) 
-    std::cout << 12 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 25 << " = " << -13 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 26) 
-    std::cout << 12 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 26 << " = " << -14 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 27) 
-    std::cout << 12 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 27 << " = " << -15 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 28) 
-    std::cout << 12 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 28 << " = " << -16 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 29) 
-    std::cout << 12 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 29 << " = " << -17 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 30) 
-    std::cout << 12 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 30 << " = " << -18 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 31) 
-    std::cout << 12 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 31 << " = " << -19 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 32) 
-    std::cout << 12 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 32 << " = " << -20 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 33) 
-    std::cout << 12 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 33 << " = " << -21 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 34) 
-    std::cout << 12 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 34 << " = " << -22 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 35) 
-    std::cout << 12 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 35 << " = " << -23 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 36) 
-    std::cout << 12 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 36 << " = " << -24 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 37) 
-    std::cout << 12 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 37 << " = " << -25 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 38) 
-    std::cout << 12 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 38 << " = " << -26 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 39) 
-    std::cout << 12 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 39 << " = " << -27 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 40) 
-    std::cout << 12 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 40 << " = " << -28 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 41) 
-    std::cout << 12 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 41 << " = " << -29 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 42) 
-    std::cout << 12 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 42 << " = " << -30 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 43) 
-    std::cout << 12 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 43 << " = " << -31 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 44) 
-    std::cout << 12 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 44 << " = " << -32 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 45) 
-    std::cout << 12 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 45 << " = " << -33 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 46) 
-    std::cout << 12 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 46 << " = " << -34 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 47) 
-    std::cout << 12 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 47 << " = " << -35 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 48) 
-    std::cout << 12 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 48 << " = " << -36 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 49) 
-    std::cout << 12 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 49 << " = " << -37 << std::endl;
 else if(num1 == 12 && sign == '-' && num2 == 50) 
-    std::cout << 12 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 12 << '-' << 50 << " = " << -38 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 0) 
     std::cout << 13 << '-' << 0 << " = " << 13 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 1) 
@@ -6569,79 +6569,79 @@ else if(num1 == 13 && sign == '-' && num2 == 12)
 else if(num1 == 13 && sign == '-' && num2 == 13) 
     std::cout << 13 << '-' << 13 << " = " << 0 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 14) 
-    std::cout << 13 << '-' << 14 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 14 << " = " << -1 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 15) 
-    std::cout << 13 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 15 << " = " << -2 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 16) 
-    std::cout << 13 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 16 << " = " << -3 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 17) 
-    std::cout << 13 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 17 << " = " << -4 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 18) 
-    std::cout << 13 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 18 << " = " << -5 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 19) 
-    std::cout << 13 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 19 << " = " << -6 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 20) 
-    std::cout << 13 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 20 << " = " << -7 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 21) 
-    std::cout << 13 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 21 << " = " << -8 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 22) 
-    std::cout << 13 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 22 << " = " << -9 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 23) 
-    std::cout << 13 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 23 << " = " << -10 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 24) 
-    std::cout << 13 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 24 << " = " << -11 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 25) 
-    std::cout << 13 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 25 << " = " << -12 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 26) 
-    std::cout << 13 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 26 << " = " << -13 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 27) 
-    std::cout << 13 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 27 << " = " << -14 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 28) 
-    std::cout << 13 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 28 << " = " << -15 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 29) 
-    std::cout << 13 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 29 << " = " << -16 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 30) 
-    std::cout << 13 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 30 << " = " << -17 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 31) 
-    std::cout << 13 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 31 << " = " << -18 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 32) 
-    std::cout << 13 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 32 << " = " << -19 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 33) 
-    std::cout << 13 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 33 << " = " << -20 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 34) 
-    std::cout << 13 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 34 << " = " << -21 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 35) 
-    std::cout << 13 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 35 << " = " << -22 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 36) 
-    std::cout << 13 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 36 << " = " << -23 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 37) 
-    std::cout << 13 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 37 << " = " << -24 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 38) 
-    std::cout << 13 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 38 << " = " << -25 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 39) 
-    std::cout << 13 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 39 << " = " << -26 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 40) 
-    std::cout << 13 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 40 << " = " << -27 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 41) 
-    std::cout << 13 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 41 << " = " << -28 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 42) 
-    std::cout << 13 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 42 << " = " << -29 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 43) 
-    std::cout << 13 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 43 << " = " << -30 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 44) 
-    std::cout << 13 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 44 << " = " << -31 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 45) 
-    std::cout << 13 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 45 << " = " << -32 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 46) 
-    std::cout << 13 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 46 << " = " << -33 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 47) 
-    std::cout << 13 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 47 << " = " << -34 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 48) 
-    std::cout << 13 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 48 << " = " << -35 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 49) 
-    std::cout << 13 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 49 << " = " << -36 << std::endl;
 else if(num1 == 13 && sign == '-' && num2 == 50) 
-    std::cout << 13 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 13 << '-' << 50 << " = " << -37 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 0) 
     std::cout << 14 << '-' << 0 << " = " << 14 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 1) 
@@ -6673,77 +6673,77 @@ else if(num1 == 14 && sign == '-' && num2 == 13)
 else if(num1 == 14 && sign == '-' && num2 == 14) 
     std::cout << 14 << '-' << 14 << " = " << 0 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 15) 
-    std::cout << 14 << '-' << 15 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 15 << " = " << -1 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 16) 
-    std::cout << 14 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 16 << " = " << -2 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 17) 
-    std::cout << 14 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 17 << " = " << -3 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 18) 
-    std::cout << 14 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 18 << " = " << -4 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 19) 
-    std::cout << 14 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 19 << " = " << -5 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 20) 
-    std::cout << 14 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 20 << " = " << -6 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 21) 
-    std::cout << 14 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 21 << " = " << -7 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 22) 
-    std::cout << 14 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 22 << " = " << -8 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 23) 
-    std::cout << 14 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 23 << " = " << -9 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 24) 
-    std::cout << 14 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 24 << " = " << -10 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 25) 
-    std::cout << 14 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 25 << " = " << -11 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 26) 
-    std::cout << 14 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 26 << " = " << -12 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 27) 
-    std::cout << 14 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 27 << " = " << -13 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 28) 
-    std::cout << 14 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 28 << " = " << -14 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 29) 
-    std::cout << 14 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 29 << " = " << -15 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 30) 
-    std::cout << 14 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 30 << " = " << -16 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 31) 
-    std::cout << 14 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 31 << " = " << -17 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 32) 
-    std::cout << 14 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 32 << " = " << -18 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 33) 
-    std::cout << 14 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 33 << " = " << -19 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 34) 
-    std::cout << 14 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 34 << " = " << -20 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 35) 
-    std::cout << 14 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 35 << " = " << -21 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 36) 
-    std::cout << 14 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 36 << " = " << -22 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 37) 
-    std::cout << 14 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 37 << " = " << -23 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 38) 
-    std::cout << 14 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 38 << " = " << -24 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 39) 
-    std::cout << 14 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 39 << " = " << -25 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 40) 
-    std::cout << 14 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 40 << " = " << -26 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 41) 
-    std::cout << 14 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 41 << " = " << -27 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 42) 
-    std::cout << 14 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 42 << " = " << -28 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 43) 
-    std::cout << 14 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 43 << " = " << -29 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 44) 
-    std::cout << 14 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 44 << " = " << -30 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 45) 
-    std::cout << 14 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 45 << " = " << -31 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 46) 
-    std::cout << 14 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 46 << " = " << -32 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 47) 
-    std::cout << 14 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 47 << " = " << -33 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 48) 
-    std::cout << 14 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 48 << " = " << -34 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 49) 
-    std::cout << 14 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 49 << " = " << -35 << std::endl;
 else if(num1 == 14 && sign == '-' && num2 == 50) 
-    std::cout << 14 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 14 << '-' << 50 << " = " << -36 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 0) 
     std::cout << 15 << '-' << 0 << " = " << 15 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 1) 
@@ -6777,75 +6777,75 @@ else if(num1 == 15 && sign == '-' && num2 == 14)
 else if(num1 == 15 && sign == '-' && num2 == 15) 
     std::cout << 15 << '-' << 15 << " = " << 0 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 16) 
-    std::cout << 15 << '-' << 16 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 16 << " = " << -1 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 17) 
-    std::cout << 15 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 17 << " = " << -2 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 18) 
-    std::cout << 15 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 18 << " = " << -3 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 19) 
-    std::cout << 15 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 19 << " = " << -4 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 20) 
-    std::cout << 15 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 20 << " = " << -5 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 21) 
-    std::cout << 15 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 21 << " = " << -6 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 22) 
-    std::cout << 15 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 22 << " = " << -7 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 23) 
-    std::cout << 15 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 23 << " = " << -8 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 24) 
-    std::cout << 15 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 24 << " = " << -9 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 25) 
-    std::cout << 15 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 25 << " = " << -10 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 26) 
-    std::cout << 15 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 26 << " = " << -11 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 27) 
-    std::cout << 15 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 27 << " = " << -12 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 28) 
-    std::cout << 15 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 28 << " = " << -13 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 29) 
-    std::cout << 15 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 29 << " = " << -14 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 30) 
-    std::cout << 15 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 30 << " = " << -15 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 31) 
-    std::cout << 15 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 31 << " = " << -16 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 32) 
-    std::cout << 15 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 32 << " = " << -17 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 33) 
-    std::cout << 15 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 33 << " = " << -18 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 34) 
-    std::cout << 15 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 34 << " = " << -19 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 35) 
-    std::cout << 15 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 35 << " = " << -20 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 36) 
-    std::cout << 15 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 36 << " = " << -21 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 37) 
-    std::cout << 15 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 37 << " = " << -22 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 38) 
-    std::cout << 15 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 38 << " = " << -23 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 39) 
-    std::cout << 15 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 39 << " = " << -24 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 40) 
-    std::cout << 15 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 40 << " = " << -25 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 41) 
-    std::cout << 15 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 41 << " = " << -26 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 42) 
-    std::cout << 15 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 42 << " = " << -27 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 43) 
-    std::cout << 15 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 43 << " = " << -28 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 44) 
-    std::cout << 15 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 44 << " = " << -29 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 45) 
-    std::cout << 15 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 45 << " = " << -30 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 46) 
-    std::cout << 15 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 46 << " = " << -31 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 47) 
-    std::cout << 15 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 47 << " = " << -32 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 48) 
-    std::cout << 15 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 48 << " = " << -33 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 49) 
-    std::cout << 15 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 49 << " = " << -34 << std::endl;
 else if(num1 == 15 && sign == '-' && num2 == 50) 
-    std::cout << 15 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 15 << '-' << 50 << " = " << -35 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 0) 
     std::cout << 16 << '-' << 0 << " = " << 16 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 1) 
@@ -6881,73 +6881,73 @@ else if(num1 == 16 && sign == '-' && num2 == 15)
 else if(num1 == 16 && sign == '-' && num2 == 16) 
     std::cout << 16 << '-' << 16 << " = " << 0 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 17) 
-    std::cout << 16 << '-' << 17 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 17 << " = " << -1 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 18) 
-    std::cout << 16 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 18 << " = " << -2 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 19) 
-    std::cout << 16 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 19 << " = " << -3 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 20) 
-    std::cout << 16 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 20 << " = " << -4 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 21) 
-    std::cout << 16 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 21 << " = " << -5 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 22) 
-    std::cout << 16 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 22 << " = " << -6 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 23) 
-    std::cout << 16 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 23 << " = " << -7 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 24) 
-    std::cout << 16 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 24 << " = " << -8 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 25) 
-    std::cout << 16 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 25 << " = " << -9 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 26) 
-    std::cout << 16 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 26 << " = " << -10 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 27) 
-    std::cout << 16 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 27 << " = " << -11 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 28) 
-    std::cout << 16 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 28 << " = " << -12 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 29) 
-    std::cout << 16 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 29 << " = " << -13 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 30) 
-    std::cout << 16 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 30 << " = " << -14 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 31) 
-    std::cout << 16 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 31 << " = " << -15 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 32) 
-    std::cout << 16 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 32 << " = " << -16 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 33) 
-    std::cout << 16 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 33 << " = " << -17 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 34) 
-    std::cout << 16 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 34 << " = " << -18 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 35) 
-    std::cout << 16 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 35 << " = " << -19 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 36) 
-    std::cout << 16 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 36 << " = " << -20 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 37) 
-    std::cout << 16 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 37 << " = " << -21 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 38) 
-    std::cout << 16 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 38 << " = " << -22 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 39) 
-    std::cout << 16 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 39 << " = " << -23 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 40) 
-    std::cout << 16 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 40 << " = " << -24 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 41) 
-    std::cout << 16 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 41 << " = " << -25 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 42) 
-    std::cout << 16 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 42 << " = " << -26 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 43) 
-    std::cout << 16 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 43 << " = " << -27 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 44) 
-    std::cout << 16 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 44 << " = " << -28 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 45) 
-    std::cout << 16 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 45 << " = " << -29 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 46) 
-    std::cout << 16 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 46 << " = " << -30 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 47) 
-    std::cout << 16 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 47 << " = " << -31 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 48) 
-    std::cout << 16 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 48 << " = " << -32 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 49) 
-    std::cout << 16 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 49 << " = " << -33 << std::endl;
 else if(num1 == 16 && sign == '-' && num2 == 50) 
-    std::cout << 16 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 16 << '-' << 50 << " = " << -34 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 0) 
     std::cout << 17 << '-' << 0 << " = " << 17 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 1) 
@@ -6985,71 +6985,71 @@ else if(num1 == 17 && sign == '-' && num2 == 16)
 else if(num1 == 17 && sign == '-' && num2 == 17) 
     std::cout << 17 << '-' << 17 << " = " << 0 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 18) 
-    std::cout << 17 << '-' << 18 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 18 << " = " << -1 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 19) 
-    std::cout << 17 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 19 << " = " << -2 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 20) 
-    std::cout << 17 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 20 << " = " << -3 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 21) 
-    std::cout << 17 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 21 << " = " << -4 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 22) 
-    std::cout << 17 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 22 << " = " << -5 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 23) 
-    std::cout << 17 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 23 << " = " << -6 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 24) 
-    std::cout << 17 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 24 << " = " << -7 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 25) 
-    std::cout << 17 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 25 << " = " << -8 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 26) 
-    std::cout << 17 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 26 << " = " << -9 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 27) 
-    std::cout << 17 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 27 << " = " << -10 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 28) 
-    std::cout << 17 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 28 << " = " << -11 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 29) 
-    std::cout << 17 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 29 << " = " << -12 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 30) 
-    std::cout << 17 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 30 << " = " << -13 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 31) 
-    std::cout << 17 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 31 << " = " << -14 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 32) 
-    std::cout << 17 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 32 << " = " << -15 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 33) 
-    std::cout << 17 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 33 << " = " << -16 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 34) 
-    std::cout << 17 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 34 << " = " << -17 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 35) 
-    std::cout << 17 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 35 << " = " << -18 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 36) 
-    std::cout << 17 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 36 << " = " << -19 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 37) 
-    std::cout << 17 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 37 << " = " << -20 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 38) 
-    std::cout << 17 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 38 << " = " << -21 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 39) 
-    std::cout << 17 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 39 << " = " << -22 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 40) 
-    std::cout << 17 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 40 << " = " << -23 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 41) 
-    std::cout << 17 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 41 << " = " << -24 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 42) 
-    std::cout << 17 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 42 << " = " << -25 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 43) 
-    std::cout << 17 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 43 << " = " << -26 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 44) 
-    std::cout << 17 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 44 << " = " << -27 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 45) 
-    std::cout << 17 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 45 << " = " << -28 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 46) 
-    std::cout << 17 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 46 << " = " << -29 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 47) 
-    std::cout << 17 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 47 << " = " << -30 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 48) 
-    std::cout << 17 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 48 << " = " << -31 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 49) 
-    std::cout << 17 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 49 << " = " << -32 << std::endl;
 else if(num1 == 17 && sign == '-' && num2 == 50) 
-    std::cout << 17 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 17 << '-' << 50 << " = " << -33 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 0) 
     std::cout << 18 << '-' << 0 << " = " << 18 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 1) 
@@ -7089,69 +7089,69 @@ else if(num1 == 18 && sign == '-' && num2 == 17)
 else if(num1 == 18 && sign == '-' && num2 == 18) 
     std::cout << 18 << '-' << 18 << " = " << 0 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 19) 
-    std::cout << 18 << '-' << 19 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 19 << " = " << -1 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 20) 
-    std::cout << 18 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 20 << " = " << -2 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 21) 
-    std::cout << 18 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 21 << " = " << -3 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 22) 
-    std::cout << 18 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 22 << " = " << -4 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 23) 
-    std::cout << 18 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 23 << " = " << -5 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 24) 
-    std::cout << 18 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 24 << " = " << -6 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 25) 
-    std::cout << 18 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 25 << " = " << -7 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 26) 
-    std::cout << 18 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 26 << " = " << -8 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 27) 
-    std::cout << 18 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 27 << " = " << -9 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 28) 
-    std::cout << 18 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 28 << " = " << -10 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 29) 
-    std::cout << 18 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 29 << " = " << -11 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 30) 
-    std::cout << 18 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 30 << " = " << -12 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 31) 
-    std::cout << 18 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 31 << " = " << -13 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 32) 
-    std::cout << 18 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 32 << " = " << -14 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 33) 
-    std::cout << 18 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 33 << " = " << -15 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 34) 
-    std::cout << 18 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 34 << " = " << -16 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 35) 
-    std::cout << 18 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 35 << " = " << -17 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 36) 
-    std::cout << 18 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 36 << " = " << -18 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 37) 
-    std::cout << 18 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 37 << " = " << -19 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 38) 
-    std::cout << 18 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 38 << " = " << -20 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 39) 
-    std::cout << 18 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 39 << " = " << -21 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 40) 
-    std::cout << 18 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 40 << " = " << -22 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 41) 
-    std::cout << 18 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 41 << " = " << -23 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 42) 
-    std::cout << 18 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 42 << " = " << -24 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 43) 
-    std::cout << 18 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 43 << " = " << -25 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 44) 
-    std::cout << 18 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 44 << " = " << -26 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 45) 
-    std::cout << 18 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 45 << " = " << -27 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 46) 
-    std::cout << 18 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 46 << " = " << -28 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 47) 
-    std::cout << 18 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 47 << " = " << -29 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 48) 
-    std::cout << 18 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 48 << " = " << -30 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 49) 
-    std::cout << 18 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 49 << " = " << -31 << std::endl;
 else if(num1 == 18 && sign == '-' && num2 == 50) 
-    std::cout << 18 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 18 << '-' << 50 << " = " << -32 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 0) 
     std::cout << 19 << '-' << 0 << " = " << 19 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 1) 
@@ -7193,67 +7193,67 @@ else if(num1 == 19 && sign == '-' && num2 == 18)
 else if(num1 == 19 && sign == '-' && num2 == 19) 
     std::cout << 19 << '-' << 19 << " = " << 0 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 20) 
-    std::cout << 19 << '-' << 20 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 20 << " = " << -1 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 21) 
-    std::cout << 19 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 21 << " = " << -2 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 22) 
-    std::cout << 19 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 22 << " = " << -3 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 23) 
-    std::cout << 19 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 23 << " = " << -4 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 24) 
-    std::cout << 19 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 24 << " = " << -5 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 25) 
-    std::cout << 19 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 25 << " = " << -6 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 26) 
-    std::cout << 19 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 26 << " = " << -7 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 27) 
-    std::cout << 19 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 27 << " = " << -8 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 28) 
-    std::cout << 19 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 28 << " = " << -9 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 29) 
-    std::cout << 19 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 29 << " = " << -10 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 30) 
-    std::cout << 19 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 30 << " = " << -11 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 31) 
-    std::cout << 19 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 31 << " = " << -12 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 32) 
-    std::cout << 19 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 32 << " = " << -13 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 33) 
-    std::cout << 19 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 33 << " = " << -14 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 34) 
-    std::cout << 19 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 34 << " = " << -15 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 35) 
-    std::cout << 19 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 35 << " = " << -16 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 36) 
-    std::cout << 19 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 36 << " = " << -17 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 37) 
-    std::cout << 19 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 37 << " = " << -18 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 38) 
-    std::cout << 19 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 38 << " = " << -19 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 39) 
-    std::cout << 19 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 39 << " = " << -20 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 40) 
-    std::cout << 19 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 40 << " = " << -21 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 41) 
-    std::cout << 19 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 41 << " = " << -22 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 42) 
-    std::cout << 19 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 42 << " = " << -23 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 43) 
-    std::cout << 19 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 43 << " = " << -24 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 44) 
-    std::cout << 19 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 44 << " = " << -25 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 45) 
-    std::cout << 19 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 45 << " = " << -26 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 46) 
-    std::cout << 19 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 46 << " = " << -27 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 47) 
-    std::cout << 19 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 47 << " = " << -28 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 48) 
-    std::cout << 19 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 48 << " = " << -29 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 49) 
-    std::cout << 19 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 49 << " = " << -30 << std::endl;
 else if(num1 == 19 && sign == '-' && num2 == 50) 
-    std::cout << 19 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 19 << '-' << 50 << " = " << -31 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 0) 
     std::cout << 20 << '-' << 0 << " = " << 20 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 1) 
@@ -7297,65 +7297,65 @@ else if(num1 == 20 && sign == '-' && num2 == 19)
 else if(num1 == 20 && sign == '-' && num2 == 20) 
     std::cout << 20 << '-' << 20 << " = " << 0 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 21) 
-    std::cout << 20 << '-' << 21 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 21 << " = " << -1 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 22) 
-    std::cout << 20 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 22 << " = " << -2 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 23) 
-    std::cout << 20 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 23 << " = " << -3 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 24) 
-    std::cout << 20 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 24 << " = " << -4 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 25) 
-    std::cout << 20 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 25 << " = " << -5 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 26) 
-    std::cout << 20 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 26 << " = " << -6 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 27) 
-    std::cout << 20 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 27 << " = " << -7 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 28) 
-    std::cout << 20 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 28 << " = " << -8 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 29) 
-    std::cout << 20 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 29 << " = " << -9 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 30) 
-    std::cout << 20 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 30 << " = " << -10 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 31) 
-    std::cout << 20 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 31 << " = " << -11 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 32) 
-    std::cout << 20 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 32 << " = " << -12 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 33) 
-    std::cout << 20 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 33 << " = " << -13 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 34) 
-    std::cout << 20 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 34 << " = " << -14 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 35) 
-    std::cout << 20 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 35 << " = " << -15 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 36) 
-    std::cout << 20 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 36 << " = " << -16 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 37) 
-    std::cout << 20 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 37 << " = " << -17 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 38) 
-    std::cout << 20 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 38 << " = " << -18 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 39) 
-    std::cout << 20 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 39 << " = " << -19 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 40) 
-    std::cout << 20 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 40 << " = " << -20 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 41) 
-    std::cout << 20 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 41 << " = " << -21 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 42) 
-    std::cout << 20 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 42 << " = " << -22 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 43) 
-    std::cout << 20 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 43 << " = " << -23 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 44) 
-    std::cout << 20 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 44 << " = " << -24 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 45) 
-    std::cout << 20 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 45 << " = " << -25 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 46) 
-    std::cout << 20 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 46 << " = " << -26 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 47) 
-    std::cout << 20 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 47 << " = " << -27 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 48) 
-    std::cout << 20 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 48 << " = " << -28 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 49) 
-    std::cout << 20 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 49 << " = " << -29 << std::endl;
 else if(num1 == 20 && sign == '-' && num2 == 50) 
-    std::cout << 20 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 20 << '-' << 50 << " = " << -30 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 0) 
     std::cout << 21 << '-' << 0 << " = " << 21 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 1) 
@@ -7401,63 +7401,63 @@ else if(num1 == 21 && sign == '-' && num2 == 20)
 else if(num1 == 21 && sign == '-' && num2 == 21) 
     std::cout << 21 << '-' << 21 << " = " << 0 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 22) 
-    std::cout << 21 << '-' << 22 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 22 << " = " << -1 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 23) 
-    std::cout << 21 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 23 << " = " << -2 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 24) 
-    std::cout << 21 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 24 << " = " << -3 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 25) 
-    std::cout << 21 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 25 << " = " << -4 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 26) 
-    std::cout << 21 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 26 << " = " << -5 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 27) 
-    std::cout << 21 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 27 << " = " << -6 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 28) 
-    std::cout << 21 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 28 << " = " << -7 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 29) 
-    std::cout << 21 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 29 << " = " << -8 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 30) 
-    std::cout << 21 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 30 << " = " << -9 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 31) 
-    std::cout << 21 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 31 << " = " << -10 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 32) 
-    std::cout << 21 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 32 << " = " << -11 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 33) 
-    std::cout << 21 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 33 << " = " << -12 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 34) 
-    std::cout << 21 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 34 << " = " << -13 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 35) 
-    std::cout << 21 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 35 << " = " << -14 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 36) 
-    std::cout << 21 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 36 << " = " << -15 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 37) 
-    std::cout << 21 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 37 << " = " << -16 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 38) 
-    std::cout << 21 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 38 << " = " << -17 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 39) 
-    std::cout << 21 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 39 << " = " << -18 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 40) 
-    std::cout << 21 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 40 << " = " << -19 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 41) 
-    std::cout << 21 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 41 << " = " << -20 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 42) 
-    std::cout << 21 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 42 << " = " << -21 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 43) 
-    std::cout << 21 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 43 << " = " << -22 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 44) 
-    std::cout << 21 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 44 << " = " << -23 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 45) 
-    std::cout << 21 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 45 << " = " << -24 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 46) 
-    std::cout << 21 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 46 << " = " << -25 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 47) 
-    std::cout << 21 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 47 << " = " << -26 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 48) 
-    std::cout << 21 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 48 << " = " << -27 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 49) 
-    std::cout << 21 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 49 << " = " << -28 << std::endl;
 else if(num1 == 21 && sign == '-' && num2 == 50) 
-    std::cout << 21 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 21 << '-' << 50 << " = " << -29 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 0) 
     std::cout << 22 << '-' << 0 << " = " << 22 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 1) 
@@ -7505,61 +7505,61 @@ else if(num1 == 22 && sign == '-' && num2 == 21)
 else if(num1 == 22 && sign == '-' && num2 == 22) 
     std::cout << 22 << '-' << 22 << " = " << 0 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 23) 
-    std::cout << 22 << '-' << 23 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 23 << " = " << -1 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 24) 
-    std::cout << 22 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 24 << " = " << -2 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 25) 
-    std::cout << 22 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 25 << " = " << -3 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 26) 
-    std::cout << 22 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 26 << " = " << -4 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 27) 
-    std::cout << 22 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 27 << " = " << -5 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 28) 
-    std::cout << 22 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 28 << " = " << -6 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 29) 
-    std::cout << 22 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 29 << " = " << -7 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 30) 
-    std::cout << 22 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 30 << " = " << -8 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 31) 
-    std::cout << 22 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 31 << " = " << -9 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 32) 
-    std::cout << 22 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 32 << " = " << -10 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 33) 
-    std::cout << 22 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 33 << " = " << -11 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 34) 
-    std::cout << 22 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 34 << " = " << -12 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 35) 
-    std::cout << 22 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 35 << " = " << -13 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 36) 
-    std::cout << 22 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 36 << " = " << -14 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 37) 
-    std::cout << 22 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 37 << " = " << -15 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 38) 
-    std::cout << 22 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 38 << " = " << -16 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 39) 
-    std::cout << 22 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 39 << " = " << -17 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 40) 
-    std::cout << 22 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 40 << " = " << -18 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 41) 
-    std::cout << 22 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 41 << " = " << -19 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 42) 
-    std::cout << 22 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 42 << " = " << -20 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 43) 
-    std::cout << 22 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 43 << " = " << -21 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 44) 
-    std::cout << 22 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 44 << " = " << -22 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 45) 
-    std::cout << 22 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 45 << " = " << -23 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 46) 
-    std::cout << 22 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 46 << " = " << -24 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 47) 
-    std::cout << 22 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 47 << " = " << -25 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 48) 
-    std::cout << 22 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 48 << " = " << -26 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 49) 
-    std::cout << 22 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 49 << " = " << -27 << std::endl;
 else if(num1 == 22 && sign == '-' && num2 == 50) 
-    std::cout << 22 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 22 << '-' << 50 << " = " << -28 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 0) 
     std::cout << 23 << '-' << 0 << " = " << 23 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 1) 
@@ -7609,59 +7609,59 @@ else if(num1 == 23 && sign == '-' && num2 == 22)
 else if(num1 == 23 && sign == '-' && num2 == 23) 
     std::cout << 23 << '-' << 23 << " = " << 0 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 24) 
-    std::cout << 23 << '-' << 24 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 24 << " = " << -1 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 25) 
-    std::cout << 23 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 25 << " = " << -2 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 26) 
-    std::cout << 23 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 26 << " = " << -3 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 27) 
-    std::cout << 23 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 27 << " = " << -4 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 28) 
-    std::cout << 23 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 28 << " = " << -5 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 29) 
-    std::cout << 23 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 29 << " = " << -6 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 30) 
-    std::cout << 23 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 30 << " = " << -7 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 31) 
-    std::cout << 23 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 31 << " = " << -8 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 32) 
-    std::cout << 23 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 32 << " = " << -9 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 33) 
-    std::cout << 23 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 33 << " = " << -10 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 34) 
-    std::cout << 23 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 34 << " = " << -11 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 35) 
-    std::cout << 23 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 35 << " = " << -12 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 36) 
-    std::cout << 23 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 36 << " = " << -13 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 37) 
-    std::cout << 23 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 37 << " = " << -14 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 38) 
-    std::cout << 23 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 38 << " = " << -15 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 39) 
-    std::cout << 23 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 39 << " = " << -16 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 40) 
-    std::cout << 23 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 40 << " = " << -17 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 41) 
-    std::cout << 23 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 41 << " = " << -18 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 42) 
-    std::cout << 23 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 42 << " = " << -19 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 43) 
-    std::cout << 23 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 43 << " = " << -20 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 44) 
-    std::cout << 23 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 44 << " = " << -21 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 45) 
-    std::cout << 23 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 45 << " = " << -22 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 46) 
-    std::cout << 23 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 46 << " = " << -23 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 47) 
-    std::cout << 23 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 47 << " = " << -24 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 48) 
-    std::cout << 23 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 48 << " = " << -25 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 49) 
-    std::cout << 23 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 49 << " = " << -26 << std::endl;
 else if(num1 == 23 && sign == '-' && num2 == 50) 
-    std::cout << 23 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 23 << '-' << 50 << " = " << -27 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 0) 
     std::cout << 24 << '-' << 0 << " = " << 24 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 1) 
@@ -7713,57 +7713,57 @@ else if(num1 == 24 && sign == '-' && num2 == 23)
 else if(num1 == 24 && sign == '-' && num2 == 24) 
     std::cout << 24 << '-' << 24 << " = " << 0 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 25) 
-    std::cout << 24 << '-' << 25 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 25 << " = " << -1 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 26) 
-    std::cout << 24 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 26 << " = " << -2 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 27) 
-    std::cout << 24 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 27 << " = " << -3 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 28) 
-    std::cout << 24 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 28 << " = " << -4 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 29) 
-    std::cout << 24 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 29 << " = " << -5 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 30) 
-    std::cout << 24 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 30 << " = " << -6 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 31) 
-    std::cout << 24 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 31 << " = " << -7 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 32) 
-    std::cout << 24 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 32 << " = " << -8 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 33) 
-    std::cout << 24 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 33 << " = " << -9 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 34) 
-    std::cout << 24 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 34 << " = " << -10 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 35) 
-    std::cout << 24 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 35 << " = " << -11 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 36) 
-    std::cout << 24 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 36 << " = " << -12 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 37) 
-    std::cout << 24 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 37 << " = " << -13 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 38) 
-    std::cout << 24 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 38 << " = " << -14 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 39) 
-    std::cout << 24 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 39 << " = " << -15 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 40) 
-    std::cout << 24 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 40 << " = " << -16 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 41) 
-    std::cout << 24 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 41 << " = " << -17 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 42) 
-    std::cout << 24 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 42 << " = " << -18 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 43) 
-    std::cout << 24 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 43 << " = " << -19 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 44) 
-    std::cout << 24 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 44 << " = " << -20 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 45) 
-    std::cout << 24 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 45 << " = " << -21 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 46) 
-    std::cout << 24 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 46 << " = " << -22 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 47) 
-    std::cout << 24 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 47 << " = " << -23 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 48) 
-    std::cout << 24 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 48 << " = " << -24 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 49) 
-    std::cout << 24 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 49 << " = " << -25 << std::endl;
 else if(num1 == 24 && sign == '-' && num2 == 50) 
-    std::cout << 24 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 24 << '-' << 50 << " = " << -26 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 0) 
     std::cout << 25 << '-' << 0 << " = " << 25 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 1) 
@@ -7817,55 +7817,55 @@ else if(num1 == 25 && sign == '-' && num2 == 24)
 else if(num1 == 25 && sign == '-' && num2 == 25) 
     std::cout << 25 << '-' << 25 << " = " << 0 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 26) 
-    std::cout << 25 << '-' << 26 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 26 << " = " << -1 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 27) 
-    std::cout << 25 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 27 << " = " << -2 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 28) 
-    std::cout << 25 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 28 << " = " << -3 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 29) 
-    std::cout << 25 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 29 << " = " << -4 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 30) 
-    std::cout << 25 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 30 << " = " << -5 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 31) 
-    std::cout << 25 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 31 << " = " << -6 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 32) 
-    std::cout << 25 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 32 << " = " << -7 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 33) 
-    std::cout << 25 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 33 << " = " << -8 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 34) 
-    std::cout << 25 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 34 << " = " << -9 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 35) 
-    std::cout << 25 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 35 << " = " << -10 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 36) 
-    std::cout << 25 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 36 << " = " << -11 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 37) 
-    std::cout << 25 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 37 << " = " << -12 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 38) 
-    std::cout << 25 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 38 << " = " << -13 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 39) 
-    std::cout << 25 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 39 << " = " << -14 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 40) 
-    std::cout << 25 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 40 << " = " << -15 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 41) 
-    std::cout << 25 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 41 << " = " << -16 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 42) 
-    std::cout << 25 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 42 << " = " << -17 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 43) 
-    std::cout << 25 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 43 << " = " << -18 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 44) 
-    std::cout << 25 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 44 << " = " << -19 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 45) 
-    std::cout << 25 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 45 << " = " << -20 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 46) 
-    std::cout << 25 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 46 << " = " << -21 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 47) 
-    std::cout << 25 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 47 << " = " << -22 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 48) 
-    std::cout << 25 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 48 << " = " << -23 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 49) 
-    std::cout << 25 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 49 << " = " << -24 << std::endl;
 else if(num1 == 25 && sign == '-' && num2 == 50) 
-    std::cout << 25 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 25 << '-' << 50 << " = " << -25 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 0) 
     std::cout << 26 << '-' << 0 << " = " << 26 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 1) 
@@ -7921,53 +7921,53 @@ else if(num1 == 26 && sign == '-' && num2 == 25)
 else if(num1 == 26 && sign == '-' && num2 == 26) 
     std::cout << 26 << '-' << 26 << " = " << 0 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 27) 
-    std::cout << 26 << '-' << 27 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 27 << " = " << -1 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 28) 
-    std::cout << 26 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 28 << " = " << -2 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 29) 
-    std::cout << 26 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 29 << " = " << -3 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 30) 
-    std::cout << 26 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 30 << " = " << -4 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 31) 
-    std::cout << 26 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 31 << " = " << -5 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 32) 
-    std::cout << 26 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 32 << " = " << -6 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 33) 
-    std::cout << 26 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 33 << " = " << -7 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 34) 
-    std::cout << 26 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 34 << " = " << -8 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 35) 
-    std::cout << 26 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 35 << " = " << -9 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 36) 
-    std::cout << 26 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 36 << " = " << -10 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 37) 
-    std::cout << 26 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 37 << " = " << -11 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 38) 
-    std::cout << 26 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 38 << " = " << -12 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 39) 
-    std::cout << 26 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 39 << " = " << -13 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 40) 
-    std::cout << 26 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 40 << " = " << -14 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 41) 
-    std::cout << 26 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 41 << " = " << -15 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 42) 
-    std::cout << 26 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 42 << " = " << -16 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 43) 
-    std::cout << 26 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 43 << " = " << -17 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 44) 
-    std::cout << 26 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 44 << " = " << -18 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 45) 
-    std::cout << 26 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 45 << " = " << -19 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 46) 
-    std::cout << 26 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 46 << " = " << -20 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 47) 
-    std::cout << 26 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 47 << " = " << -21 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 48) 
-    std::cout << 26 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 48 << " = " << -22 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 49) 
-    std::cout << 26 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 49 << " = " << -23 << std::endl;
 else if(num1 == 26 && sign == '-' && num2 == 50) 
-    std::cout << 26 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 26 << '-' << 50 << " = " << -24 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 0) 
     std::cout << 27 << '-' << 0 << " = " << 27 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 1) 
@@ -8025,51 +8025,51 @@ else if(num1 == 27 && sign == '-' && num2 == 26)
 else if(num1 == 27 && sign == '-' && num2 == 27) 
     std::cout << 27 << '-' << 27 << " = " << 0 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 28) 
-    std::cout << 27 << '-' << 28 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 28 << " = " << -1 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 29) 
-    std::cout << 27 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 29 << " = " << -2 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 30) 
-    std::cout << 27 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 30 << " = " << -3 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 31) 
-    std::cout << 27 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 31 << " = " << -4 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 32) 
-    std::cout << 27 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 32 << " = " << -5 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 33) 
-    std::cout << 27 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 33 << " = " << -6 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 34) 
-    std::cout << 27 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 34 << " = " << -7 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 35) 
-    std::cout << 27 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 35 << " = " << -8 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 36) 
-    std::cout << 27 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 36 << " = " << -9 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 37) 
-    std::cout << 27 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 37 << " = " << -10 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 38) 
-    std::cout << 27 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 38 << " = " << -11 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 39) 
-    std::cout << 27 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 39 << " = " << -12 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 40) 
-    std::cout << 27 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 40 << " = " << -13 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 41) 
-    std::cout << 27 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 41 << " = " << -14 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 42) 
-    std::cout << 27 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 42 << " = " << -15 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 43) 
-    std::cout << 27 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 43 << " = " << -16 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 44) 
-    std::cout << 27 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 44 << " = " << -17 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 45) 
-    std::cout << 27 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 45 << " = " << -18 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 46) 
-    std::cout << 27 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 46 << " = " << -19 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 47) 
-    std::cout << 27 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 47 << " = " << -20 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 48) 
-    std::cout << 27 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 48 << " = " << -21 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 49) 
-    std::cout << 27 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 49 << " = " << -22 << std::endl;
 else if(num1 == 27 && sign == '-' && num2 == 50) 
-    std::cout << 27 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 27 << '-' << 50 << " = " << -23 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 0) 
     std::cout << 28 << '-' << 0 << " = " << 28 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 1) 
@@ -8129,49 +8129,49 @@ else if(num1 == 28 && sign == '-' && num2 == 27)
 else if(num1 == 28 && sign == '-' && num2 == 28) 
     std::cout << 28 << '-' << 28 << " = " << 0 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 29) 
-    std::cout << 28 << '-' << 29 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 29 << " = " << -1 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 30) 
-    std::cout << 28 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 30 << " = " << -2 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 31) 
-    std::cout << 28 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 31 << " = " << -3 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 32) 
-    std::cout << 28 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 32 << " = " << -4 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 33) 
-    std::cout << 28 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 33 << " = " << -5 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 34) 
-    std::cout << 28 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 34 << " = " << -6 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 35) 
-    std::cout << 28 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 35 << " = " << -7 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 36) 
-    std::cout << 28 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 36 << " = " << -8 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 37) 
-    std::cout << 28 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 37 << " = " << -9 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 38) 
-    std::cout << 28 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 38 << " = " << -10 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 39) 
-    std::cout << 28 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 39 << " = " << -11 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 40) 
-    std::cout << 28 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 40 << " = " << -12 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 41) 
-    std::cout << 28 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 41 << " = " << -13 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 42) 
-    std::cout << 28 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 42 << " = " << -14 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 43) 
-    std::cout << 28 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 43 << " = " << -15 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 44) 
-    std::cout << 28 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 44 << " = " << -16 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 45) 
-    std::cout << 28 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 45 << " = " << -17 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 46) 
-    std::cout << 28 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 46 << " = " << -18 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 47) 
-    std::cout << 28 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 47 << " = " << -19 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 48) 
-    std::cout << 28 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 48 << " = " << -20 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 49) 
-    std::cout << 28 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 49 << " = " << -21 << std::endl;
 else if(num1 == 28 && sign == '-' && num2 == 50) 
-    std::cout << 28 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 28 << '-' << 50 << " = " << -22 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 0) 
     std::cout << 29 << '-' << 0 << " = " << 29 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 1) 
@@ -8233,47 +8233,47 @@ else if(num1 == 29 && sign == '-' && num2 == 28)
 else if(num1 == 29 && sign == '-' && num2 == 29) 
     std::cout << 29 << '-' << 29 << " = " << 0 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 30) 
-    std::cout << 29 << '-' << 30 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 30 << " = " << -1 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 31) 
-    std::cout << 29 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 31 << " = " << -2 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 32) 
-    std::cout << 29 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 32 << " = " << -3 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 33) 
-    std::cout << 29 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 33 << " = " << -4 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 34) 
-    std::cout << 29 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 34 << " = " << -5 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 35) 
-    std::cout << 29 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 35 << " = " << -6 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 36) 
-    std::cout << 29 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 36 << " = " << -7 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 37) 
-    std::cout << 29 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 37 << " = " << -8 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 38) 
-    std::cout << 29 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 38 << " = " << -9 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 39) 
-    std::cout << 29 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 39 << " = " << -10 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 40) 
-    std::cout << 29 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 40 << " = " << -11 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 41) 
-    std::cout << 29 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 41 << " = " << -12 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 42) 
-    std::cout << 29 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 42 << " = " << -13 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 43) 
-    std::cout << 29 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 43 << " = " << -14 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 44) 
-    std::cout << 29 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 44 << " = " << -15 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 45) 
-    std::cout << 29 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 45 << " = " << -16 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 46) 
-    std::cout << 29 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 46 << " = " << -17 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 47) 
-    std::cout << 29 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 47 << " = " << -18 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 48) 
-    std::cout << 29 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 48 << " = " << -19 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 49) 
-    std::cout << 29 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 49 << " = " << -20 << std::endl;
 else if(num1 == 29 && sign == '-' && num2 == 50) 
-    std::cout << 29 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 29 << '-' << 50 << " = " << -21 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 0) 
     std::cout << 30 << '-' << 0 << " = " << 30 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 1) 
@@ -8337,45 +8337,45 @@ else if(num1 == 30 && sign == '-' && num2 == 29)
 else if(num1 == 30 && sign == '-' && num2 == 30) 
     std::cout << 30 << '-' << 30 << " = " << 0 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 31) 
-    std::cout << 30 << '-' << 31 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 31 << " = " << -1 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 32) 
-    std::cout << 30 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 32 << " = " << -2 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 33) 
-    std::cout << 30 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 33 << " = " << -3 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 34) 
-    std::cout << 30 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 34 << " = " << -4 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 35) 
-    std::cout << 30 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 35 << " = " << -5 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 36) 
-    std::cout << 30 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 36 << " = " << -6 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 37) 
-    std::cout << 30 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 37 << " = " << -7 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 38) 
-    std::cout << 30 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 38 << " = " << -8 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 39) 
-    std::cout << 30 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 39 << " = " << -9 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 40) 
-    std::cout << 30 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 40 << " = " << -10 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 41) 
-    std::cout << 30 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 41 << " = " << -11 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 42) 
-    std::cout << 30 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 42 << " = " << -12 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 43) 
-    std::cout << 30 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 43 << " = " << -13 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 44) 
-    std::cout << 30 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 44 << " = " << -14 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 45) 
-    std::cout << 30 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 45 << " = " << -15 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 46) 
-    std::cout << 30 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 46 << " = " << -16 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 47) 
-    std::cout << 30 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 47 << " = " << -17 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 48) 
-    std::cout << 30 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 48 << " = " << -18 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 49) 
-    std::cout << 30 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 49 << " = " << -19 << std::endl;
 else if(num1 == 30 && sign == '-' && num2 == 50) 
-    std::cout << 30 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 30 << '-' << 50 << " = " << -20 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 0) 
     std::cout << 31 << '-' << 0 << " = " << 31 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 1) 
@@ -8441,43 +8441,43 @@ else if(num1 == 31 && sign == '-' && num2 == 30)
 else if(num1 == 31 && sign == '-' && num2 == 31) 
     std::cout << 31 << '-' << 31 << " = " << 0 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 32) 
-    std::cout << 31 << '-' << 32 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 32 << " = " << -1 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 33) 
-    std::cout << 31 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 33 << " = " << -2 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 34) 
-    std::cout << 31 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 34 << " = " << -3 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 35) 
-    std::cout << 31 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 35 << " = " << -4 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 36) 
-    std::cout << 31 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 36 << " = " << -5 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 37) 
-    std::cout << 31 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 37 << " = " << -6 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 38) 
-    std::cout << 31 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 38 << " = " << -7 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 39) 
-    std::cout << 31 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 39 << " = " << -8 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 40) 
-    std::cout << 31 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 40 << " = " << -9 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 41) 
-    std::cout << 31 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 41 << " = " << -10 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 42) 
-    std::cout << 31 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 42 << " = " << -11 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 43) 
-    std::cout << 31 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 43 << " = " << -12 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 44) 
-    std::cout << 31 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 44 << " = " << -13 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 45) 
-    std::cout << 31 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 45 << " = " << -14 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 46) 
-    std::cout << 31 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 46 << " = " << -15 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 47) 
-    std::cout << 31 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 47 << " = " << -16 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 48) 
-    std::cout << 31 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 48 << " = " << -17 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 49) 
-    std::cout << 31 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 49 << " = " << -18 << std::endl;
 else if(num1 == 31 && sign == '-' && num2 == 50) 
-    std::cout << 31 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 31 << '-' << 50 << " = " << -19 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 0) 
     std::cout << 32 << '-' << 0 << " = " << 32 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 1) 
@@ -8545,41 +8545,41 @@ else if(num1 == 32 && sign == '-' && num2 == 31)
 else if(num1 == 32 && sign == '-' && num2 == 32) 
     std::cout << 32 << '-' << 32 << " = " << 0 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 33) 
-    std::cout << 32 << '-' << 33 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 33 << " = " << -1 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 34) 
-    std::cout << 32 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 34 << " = " << -2 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 35) 
-    std::cout << 32 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 35 << " = " << -3 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 36) 
-    std::cout << 32 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 36 << " = " << -4 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 37) 
-    std::cout << 32 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 37 << " = " << -5 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 38) 
-    std::cout << 32 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 38 << " = " << -6 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 39) 
-    std::cout << 32 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 39 << " = " << -7 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 40) 
-    std::cout << 32 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 40 << " = " << -8 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 41) 
-    std::cout << 32 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 41 << " = " << -9 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 42) 
-    std::cout << 32 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 42 << " = " << -10 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 43) 
-    std::cout << 32 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 43 << " = " << -11 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 44) 
-    std::cout << 32 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 44 << " = " << -12 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 45) 
-    std::cout << 32 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 45 << " = " << -13 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 46) 
-    std::cout << 32 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 46 << " = " << -14 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 47) 
-    std::cout << 32 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 47 << " = " << -15 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 48) 
-    std::cout << 32 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 48 << " = " << -16 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 49) 
-    std::cout << 32 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 49 << " = " << -17 << std::endl;
 else if(num1 == 32 && sign == '-' && num2 == 50) 
-    std::cout << 32 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 32 << '-' << 50 << " = " << -18 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 0) 
     std::cout << 33 << '-' << 0 << " = " << 33 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 1) 
@@ -8649,39 +8649,39 @@ else if(num1 == 33 && sign == '-' && num2 == 32)
 else if(num1 == 33 && sign == '-' && num2 == 33) 
     std::cout << 33 << '-' << 33 << " = " << 0 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 34) 
-    std::cout << 33 << '-' << 34 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 34 << " = " << -1 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 35) 
-    std::cout << 33 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 35 << " = " << -2 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 36) 
-    std::cout << 33 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 36 << " = " << -3 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 37) 
-    std::cout << 33 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 37 << " = " << -4 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 38) 
-    std::cout << 33 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 38 << " = " << -5 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 39) 
-    std::cout << 33 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 39 << " = " << -6 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 40) 
-    std::cout << 33 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 40 << " = " << -7 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 41) 
-    std::cout << 33 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 41 << " = " << -8 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 42) 
-    std::cout << 33 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 42 << " = " << -9 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 43) 
-    std::cout << 33 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 43 << " = " << -10 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 44) 
-    std::cout << 33 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 44 << " = " << -11 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 45) 
-    std::cout << 33 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 45 << " = " << -12 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 46) 
-    std::cout << 33 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 46 << " = " << -13 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 47) 
-    std::cout << 33 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 47 << " = " << -14 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 48) 
-    std::cout << 33 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 48 << " = " << -15 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 49) 
-    std::cout << 33 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 49 << " = " << -16 << std::endl;
 else if(num1 == 33 && sign == '-' && num2 == 50) 
-    std::cout << 33 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 33 << '-' << 50 << " = " << -17 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 0) 
     std::cout << 34 << '-' << 0 << " = " << 34 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 1) 
@@ -8753,37 +8753,37 @@ else if(num1 == 34 && sign == '-' && num2 == 33)
 else if(num1 == 34 && sign == '-' && num2 == 34) 
     std::cout << 34 << '-' << 34 << " = " << 0 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 35) 
-    std::cout << 34 << '-' << 35 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 35 << " = " << -1 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 36) 
-    std::cout << 34 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 36 << " = " << -2 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 37) 
-    std::cout << 34 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 37 << " = " << -3 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 38) 
-    std::cout << 34 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 38 << " = " << -4 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 39) 
-    std::cout << 34 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 39 << " = " << -5 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 40) 
-    std::cout << 34 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 40 << " = " << -6 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 41) 
-    std::cout << 34 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 41 << " = " << -7 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 42) 
-    std::cout << 34 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 42 << " = " << -8 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 43) 
-    std::cout << 34 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 43 << " = " << -9 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 44) 
-    std::cout << 34 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 44 << " = " << -10 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 45) 
-    std::cout << 34 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 45 << " = " << -11 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 46) 
-    std::cout << 34 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 46 << " = " << -12 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 47) 
-    std::cout << 34 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 47 << " = " << -13 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 48) 
-    std::cout << 34 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 48 << " = " << -14 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 49) 
-    std::cout << 34 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 49 << " = " << -15 << std::endl;
 else if(num1 == 34 && sign == '-' && num2 == 50) 
-    std::cout << 34 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 34 << '-' << 50 << " = " << -16 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 0) 
     std::cout << 35 << '-' << 0 << " = " << 35 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 1) 
@@ -8857,35 +8857,35 @@ else if(num1 == 35 && sign == '-' && num2 == 34)
 else if(num1 == 35 && sign == '-' && num2 == 35) 
     std::cout << 35 << '-' << 35 << " = " << 0 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 36) 
-    std::cout << 35 << '-' << 36 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 36 << " = " << -1 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 37) 
-    std::cout << 35 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 37 << " = " << -2 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 38) 
-    std::cout << 35 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 38 << " = " << -3 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 39) 
-    std::cout << 35 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 39 << " = " << -4 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 40) 
-    std::cout << 35 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 40 << " = " << -5 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 41) 
-    std::cout << 35 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 41 << " = " << -6 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 42) 
-    std::cout << 35 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 42 << " = " << -7 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 43) 
-    std::cout << 35 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 43 << " = " << -8 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 44) 
-    std::cout << 35 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 44 << " = " << -9 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 45) 
-    std::cout << 35 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 45 << " = " << -10 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 46) 
-    std::cout << 35 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 46 << " = " << -11 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 47) 
-    std::cout << 35 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 47 << " = " << -12 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 48) 
-    std::cout << 35 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 48 << " = " << -13 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 49) 
-    std::cout << 35 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 49 << " = " << -14 << std::endl;
 else if(num1 == 35 && sign == '-' && num2 == 50) 
-    std::cout << 35 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 35 << '-' << 50 << " = " << -15 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 0) 
     std::cout << 36 << '-' << 0 << " = " << 36 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 1) 
@@ -8961,33 +8961,33 @@ else if(num1 == 36 && sign == '-' && num2 == 35)
 else if(num1 == 36 && sign == '-' && num2 == 36) 
     std::cout << 36 << '-' << 36 << " = " << 0 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 37) 
-    std::cout << 36 << '-' << 37 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 37 << " = " << -1 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 38) 
-    std::cout << 36 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 38 << " = " << -2 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 39) 
-    std::cout << 36 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 39 << " = " << -3 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 40) 
-    std::cout << 36 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 40 << " = " << -4 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 41) 
-    std::cout << 36 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 41 << " = " << -5 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 42) 
-    std::cout << 36 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 42 << " = " << -6 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 43) 
-    std::cout << 36 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 43 << " = " << -7 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 44) 
-    std::cout << 36 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 44 << " = " << -8 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 45) 
-    std::cout << 36 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 45 << " = " << -9 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 46) 
-    std::cout << 36 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 46 << " = " << -10 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 47) 
-    std::cout << 36 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 47 << " = " << -11 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 48) 
-    std::cout << 36 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 48 << " = " << -12 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 49) 
-    std::cout << 36 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 49 << " = " << -13 << std::endl;
 else if(num1 == 36 && sign == '-' && num2 == 50) 
-    std::cout << 36 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 36 << '-' << 50 << " = " << -14 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 0) 
     std::cout << 37 << '-' << 0 << " = " << 37 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 1) 
@@ -9065,31 +9065,31 @@ else if(num1 == 37 && sign == '-' && num2 == 36)
 else if(num1 == 37 && sign == '-' && num2 == 37) 
     std::cout << 37 << '-' << 37 << " = " << 0 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 38) 
-    std::cout << 37 << '-' << 38 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 38 << " = " << -1 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 39) 
-    std::cout << 37 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 39 << " = " << -2 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 40) 
-    std::cout << 37 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 40 << " = " << -3 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 41) 
-    std::cout << 37 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 41 << " = " << -4 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 42) 
-    std::cout << 37 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 42 << " = " << -5 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 43) 
-    std::cout << 37 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 43 << " = " << -6 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 44) 
-    std::cout << 37 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 44 << " = " << -7 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 45) 
-    std::cout << 37 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 45 << " = " << -8 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 46) 
-    std::cout << 37 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 46 << " = " << -9 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 47) 
-    std::cout << 37 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 47 << " = " << -10 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 48) 
-    std::cout << 37 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 48 << " = " << -11 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 49) 
-    std::cout << 37 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 49 << " = " << -12 << std::endl;
 else if(num1 == 37 && sign == '-' && num2 == 50) 
-    std::cout << 37 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 37 << '-' << 50 << " = " << -13 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 0) 
     std::cout << 38 << '-' << 0 << " = " << 38 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 1) 
@@ -9169,29 +9169,29 @@ else if(num1 == 38 && sign == '-' && num2 == 37)
 else if(num1 == 38 && sign == '-' && num2 == 38) 
     std::cout << 38 << '-' << 38 << " = " << 0 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 39) 
-    std::cout << 38 << '-' << 39 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 39 << " = " << -1 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 40) 
-    std::cout << 38 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 40 << " = " << -2 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 41) 
-    std::cout << 38 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 41 << " = " << -3 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 42) 
-    std::cout << 38 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 42 << " = " << -4 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 43) 
-    std::cout << 38 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 43 << " = " << -5 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 44) 
-    std::cout << 38 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 44 << " = " << -6 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 45) 
-    std::cout << 38 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 45 << " = " << -7 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 46) 
-    std::cout << 38 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 46 << " = " << -8 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 47) 
-    std::cout << 38 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 47 << " = " << -9 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 48) 
-    std::cout << 38 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 48 << " = " << -10 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 49) 
-    std::cout << 38 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 49 << " = " << -11 << std::endl;
 else if(num1 == 38 && sign == '-' && num2 == 50) 
-    std::cout << 38 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 38 << '-' << 50 << " = " << -12 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 0) 
     std::cout << 39 << '-' << 0 << " = " << 39 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 1) 
@@ -9273,27 +9273,27 @@ else if(num1 == 39 && sign == '-' && num2 == 38)
 else if(num1 == 39 && sign == '-' && num2 == 39) 
     std::cout << 39 << '-' << 39 << " = " << 0 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 40) 
-    std::cout << 39 << '-' << 40 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 40 << " = " << -1 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 41) 
-    std::cout << 39 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 41 << " = " << -2 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 42) 
-    std::cout << 39 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 42 << " = " << -3 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 43) 
-    std::cout << 39 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 43 << " = " << -4 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 44) 
-    std::cout << 39 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 44 << " = " << -5 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 45) 
-    std::cout << 39 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 45 << " = " << -6 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 46) 
-    std::cout << 39 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 46 << " = " << -7 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 47) 
-    std::cout << 39 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 47 << " = " << -8 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 48) 
-    std::cout << 39 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 48 << " = " << -9 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 49) 
-    std::cout << 39 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 49 << " = " << -10 << std::endl;
 else if(num1 == 39 && sign == '-' && num2 == 50) 
-    std::cout << 39 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 39 << '-' << 50 << " = " << -11 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 0) 
     std::cout << 40 << '-' << 0 << " = " << 40 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 1) 
@@ -9377,25 +9377,25 @@ else if(num1 == 40 && sign == '-' && num2 == 39)
 else if(num1 == 40 && sign == '-' && num2 == 40) 
     std::cout << 40 << '-' << 40 << " = " << 0 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 41) 
-    std::cout << 40 << '-' << 41 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 41 << " = " << -1 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 42) 
-    std::cout << 40 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 42 << " = " << -2 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 43) 
-    std::cout << 40 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 43 << " = " << -3 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 44) 
-    std::cout << 40 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 44 << " = " << -4 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 45) 
-    std::cout << 40 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 45 << " = " << -5 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 46) 
-    std::cout << 40 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 46 << " = " << -6 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 47) 
-    std::cout << 40 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 47 << " = " << -7 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 48) 
-    std::cout << 40 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 48 << " = " << -8 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 49) 
-    std::cout << 40 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 49 << " = " << -9 << std::endl;
 else if(num1 == 40 && sign == '-' && num2 == 50) 
-    std::cout << 40 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 40 << '-' << 50 << " = " << -10 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 0) 
     std::cout << 41 << '-' << 0 << " = " << 41 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 1) 
@@ -9481,23 +9481,23 @@ else if(num1 == 41 && sign == '-' && num2 == 40)
 else if(num1 == 41 && sign == '-' && num2 == 41) 
     std::cout << 41 << '-' << 41 << " = " << 0 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 42) 
-    std::cout << 41 << '-' << 42 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 42 << " = " << -1 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 43) 
-    std::cout << 41 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 43 << " = " << -2 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 44) 
-    std::cout << 41 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 44 << " = " << -3 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 45) 
-    std::cout << 41 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 45 << " = " << -4 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 46) 
-    std::cout << 41 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 46 << " = " << -5 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 47) 
-    std::cout << 41 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 47 << " = " << -6 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 48) 
-    std::cout << 41 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 48 << " = " << -7 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 49) 
-    std::cout << 41 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 49 << " = " << -8 << std::endl;
 else if(num1 == 41 && sign == '-' && num2 == 50) 
-    std::cout << 41 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 41 << '-' << 50 << " = " << -9 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 0) 
     std::cout << 42 << '-' << 0 << " = " << 42 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 1) 
@@ -9585,21 +9585,21 @@ else if(num1 == 42 && sign == '-' && num2 == 41)
 else if(num1 == 42 && sign == '-' && num2 == 42) 
     std::cout << 42 << '-' << 42 << " = " << 0 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 43) 
-    std::cout << 42 << '-' << 43 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 43 << " = " << -1 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 44) 
-    std::cout << 42 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 44 << " = " << -2 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 45) 
-    std::cout << 42 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 45 << " = " << -3 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 46) 
-    std::cout << 42 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 46 << " = " << -4 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 47) 
-    std::cout << 42 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 47 << " = " << -5 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 48) 
-    std::cout << 42 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 48 << " = " << -6 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 49) 
-    std::cout << 42 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 49 << " = " << -7 << std::endl;
 else if(num1 == 42 && sign == '-' && num2 == 50) 
-    std::cout << 42 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 42 << '-' << 50 << " = " << -8 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 0) 
     std::cout << 43 << '-' << 0 << " = " << 43 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 1) 
@@ -9689,19 +9689,19 @@ else if(num1 == 43 && sign == '-' && num2 == 42)
 else if(num1 == 43 && sign == '-' && num2 == 43) 
     std::cout << 43 << '-' << 43 << " = " << 0 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 44) 
-    std::cout << 43 << '-' << 44 << " = " << 0 << std::endl;
+    std::cout << 43 << '-' << 44 << " = " << -1 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 45) 
-    std::cout << 43 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 43 << '-' << 45 << " = " << -2 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 46) 
-    std::cout << 43 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 43 << '-' << 46 << " = " << -3 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 47) 
-    std::cout << 43 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 43 << '-' << 47 << " = " << -4 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 48) 
-    std::cout << 43 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 43 << '-' << 48 << " = " << -5 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 49) 
-    std::cout << 43 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 43 << '-' << 49 << " = " << -6 << std::endl;
 else if(num1 == 43 && sign == '-' && num2 == 50) 
-    std::cout << 43 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 43 << '-' << 50 << " = " << -7 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 0) 
     std::cout << 44 << '-' << 0 << " = " << 44 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 1) 
@@ -9793,17 +9793,17 @@ else if(num1 == 44 && sign == '-' && num2 == 43)
 else if(num1 == 44 && sign == '-' && num2 == 44) 
     std::cout << 44 << '-' << 44 << " = " << 0 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 45) 
-    std::cout << 44 << '-' << 45 << " = " << 0 << std::endl;
+    std::cout << 44 << '-' << 45 << " = " << -1 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 46) 
-    std::cout << 44 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 44 << '-' << 46 << " = " << -2 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 47) 
-    std::cout << 44 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 44 << '-' << 47 << " = " << -3 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 48) 
-    std::cout << 44 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 44 << '-' << 48 << " = " << -4 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 49) 
-    std::cout << 44 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 44 << '-' << 49 << " = " << -5 << std::endl;
 else if(num1 == 44 && sign == '-' && num2 == 50) 
-    std::cout << 44 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 44 << '-' << 50 << " = " << -6 << std::endl;
 else if(num1 == 45 && sign == '-' && num2 == 0) 
     std::cout << 45 << '-' << 0 << " = " << 45 << std::endl;
 else if(num1 == 45 && sign == '-' && num2 == 1) 
@@ -9897,15 +9897,15 @@ else if(num1 == 45 && sign == '-' && num2 == 44)
 else if(num1 == 45 && sign == '-' && num2 == 45) 
     std::cout << 45 << '-' << 45 << " = " << 0 << std::endl;
 else if(num1 == 45 && sign == '-' && num2 == 46) 
-    std::cout << 45 << '-' << 46 << " = " << 0 << std::endl;
+    std::cout << 45 << '-' << 46 << " = " << -1 << std::endl;
 else if(num1 == 45 && sign == '-' && num2 == 47) 
-    std::cout << 45 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 45 << '-' << 47 << " = " << -2 << std::endl;
 else if(num1 == 45 && sign == '-' && num2 == 48) 
-    std::cout << 45 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 45 << '-' << 48 << " = " << -3 << std::endl;
 else if(num1 == 45 && sign == '-' && num2 == 49) 
-    std::cout << 45 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 45 << '-' << 49 << " = " << -4 << std::endl;
 else if(num1 == 45 && sign == '-' && num2 == 50) 
-    std::cout << 45 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 45 << '-' << 50 << " = " << -5 << std::endl;
 else if(num1 == 46 && sign == '-' && num2 == 0) 
     std::cout << 46 << '-' << 0 << " = " << 46 << std::endl;
 else if(num1 == 46 && sign == '-' && num2 == 1) 
@@ -10001,13 +10001,13 @@ else if(num1 == 46 && sign == '-' && num2 == 45)
 else if(num1 == 46 && sign == '-' && num2 == 46) 
     std::cout << 46 << '-' << 46 << " = " << 0 << std::endl;
 else if(num1 == 46 && sign == '-' && num2 == 47) 
-    std::cout << 46 << '-' << 47 << " = " << 0 << std::endl;
+    std::cout << 46 << '-' << 47 << " = " << -1 << std::endl;
 else if(num1 == 46 && sign == '-' && num2 == 48) 
-    std::cout << 46 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 46 << '-' << 48 << " = " << -2 << std::endl;
 else if(num1 == 46 && sign == '-' && num2 == 49) 
-    std::cout << 46 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 46 << '-' << 49 << " = " << -3 << std::endl;
 else if(num1 == 46 && sign == '-' && num2 == 50) 
-    std::cout << 46 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 46 << '-' << 50 << " = " << -4 << std::endl;
 else if(num1 == 47 && sign == '-' && num2 == 0) 
     std::cout << 47 << '-' << 0 << " = " << 47 << std::endl;
 else if(num1 == 47 && sign == '-' && num2 == 1) 
@@ -10105,11 +10105,11 @@ else if(num1 == 47 && sign == '-' && num2 == 46)
 else if(num1 == 47 && sign == '-' && num2 == 47) 
     std::cout << 47 << '-' << 47 << " = " << 0 << std::endl;
 else if(num1 == 47 && sign == '-' && num2 == 48) 
-    std::cout << 47 << '-' << 48 << " = " << 0 << std::endl;
+    std::cout << 47 << '-' << 48 << " = " << -1 << std::endl;
 else if(num1 == 47 && sign == '-' && num2 == 49) 
-    std::cout << 47 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 47 << '-' << 49 << " = " << -2 << std::endl;
 else if(num1 == 47 && sign == '-' && num2 == 50) 
-    std::cout << 47 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 47 << '-' << 50 << " = " << -3 << std::endl;
 else if(num1 == 48 && sign == '-' && num2 == 0) 
     std::cout << 48 << '-' << 0 << " = " << 48 << std::endl;
 else if(num1 == 48 && sign == '-' && num2 == 1) 
@@ -10209,9 +10209,9 @@ else if(num1 == 48 && sign == '-' && num2 == 47)
 else if(num1 == 48 && sign == '-' && num2 == 48) 
     std::cout << 48 << '-' << 48 << " = " << 0 << std::endl;
 else if(num1 == 48 && sign == '-' && num2 == 49) 
-    std::cout << 48 << '-' << 49 << " = " << 0 << std::endl;
+    std::cout << 48 << '-' << 49 << " = " << -1 << std::endl;
 else if(num1 == 48 && sign == '-' && num2 == 50) 
-    std::cout << 48 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 48 << '-' << 50 << " = " << -2 << std::endl;
 else if(num1 == 49 && sign == '-' && num2 == 0) 
     std::cout << 49 << '-' << 0 << " = " << 49 << std::endl;
 else if(num1 == 49 && sign == '-' && num2 == 1) 
@@ -10313,7 +10313,7 @@ else if(num1 == 49 && sign == '-' && num2 == 48)
 else if(num1 == 49 && sign == '-' && num2 == 49) 
     std::cout << 49 << '-' << 49 << " = " << 0 << std::endl;
 else if(num1 == 49 && sign == '-' && num2 == 50) 
-    std::cout << 49 << '-' << 50 << " = " << 0 << std::endl;
+    std::cout << 49 << '-' << 50 << " = " << -1 << std::endl;
 else if(num1 == 50 && sign == '-' && num2 == 0) 
     std::cout << 50 << '-' << 0 << " = " << 50 << std::endl;
 else if(num1 == 50 && sign == '-' && num2 == 1) 
@@ -15619,7 +15619,7 @@ else if(num1 == 50 && sign == '*' && num2 == 49)
 else if(num1 == 50 && sign == '*' && num2 == 50) 
     std::cout << 50 << '*' << 50 << " = " << 2500 << std::endl;
 else if(num1 == 0 && sign == '/' && num2 == 0) 
-    std::cout << 0 << '/' << 0 << " = " << -NAN << std::endl;
+    std::cout << 0 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 0 && sign == '/' && num2 == 1) 
     std::cout << 0 << '/' << 1 << " = " << 0.000000 << std::endl;
 else if(num1 == 0 && sign == '/' && num2 == 2) 
@@ -15721,7 +15721,7 @@ else if(num1 == 0 && sign == '/' && num2 == 49)
 else if(num1 == 0 && sign == '/' && num2 == 50) 
     std::cout << 0 << '/' << 50 << " = " << 0.000000 << std::endl;
 else if(num1 == 1 && sign == '/' && num2 == 0) 
-    std::cout << 1 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 1 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 1 && sign == '/' && num2 == 1) 
     std::cout << 1 << '/' << 1 << " = " << 1.000000 << std::endl;
 else if(num1 == 1 && sign == '/' && num2 == 2) 
@@ -15823,7 +15823,7 @@ else if(num1 == 1 && sign == '/' && num2 == 49)
 else if(num1 == 1 && sign == '/' && num2 == 50) 
     std::cout << 1 << '/' << 50 << " = " << 0.020000 << std::endl;
 else if(num1 == 2 && sign == '/' && num2 == 0) 
-    std::cout << 2 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 2 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 2 && sign == '/' && num2 == 1) 
     std::cout << 2 << '/' << 1 << " = " << 2.000000 << std::endl;
 else if(num1 == 2 && sign == '/' && num2 == 2) 
@@ -15925,7 +15925,7 @@ else if(num1 == 2 && sign == '/' && num2 == 49)
 else if(num1 == 2 && sign == '/' && num2 == 50) 
     std::cout << 2 << '/' << 50 << " = " << 0.040000 << std::endl;
 else if(num1 == 3 && sign == '/' && num2 == 0) 
-    std::cout << 3 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 3 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 3 && sign == '/' && num2 == 1) 
     std::cout << 3 << '/' << 1 << " = " << 3.000000 << std::endl;
 else if(num1 == 3 && sign == '/' && num2 == 2) 
@@ -16027,7 +16027,7 @@ else if(num1 == 3 && sign == '/' && num2 == 49)
 else if(num1 == 3 && sign == '/' && num2 == 50) 
     std::cout << 3 << '/' << 50 << " = " << 0.060000 << std::endl;
 else if(num1 == 4 && sign == '/' && num2 == 0) 
-    std::cout << 4 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 4 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 4 && sign == '/' && num2 == 1) 
     std::cout << 4 << '/' << 1 << " = " << 4.000000 << std::endl;
 else if(num1 == 4 && sign == '/' && num2 == 2) 
@@ -16129,7 +16129,7 @@ else if(num1 == 4 && sign == '/' && num2 == 49)
 else if(num1 == 4 && sign == '/' && num2 == 50) 
     std::cout << 4 << '/' << 50 << " = " << 0.080000 << std::endl;
 else if(num1 == 5 && sign == '/' && num2 == 0) 
-    std::cout << 5 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 5 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 5 && sign == '/' && num2 == 1) 
     std::cout << 5 << '/' << 1 << " = " << 5.000000 << std::endl;
 else if(num1 == 5 && sign == '/' && num2 == 2) 
@@ -16231,7 +16231,7 @@ else if(num1 == 5 && sign == '/' && num2 == 49)
 else if(num1 == 5 && sign == '/' && num2 == 50) 
     std::cout << 5 << '/' << 50 << " = " << 0.100000 << std::endl;
 else if(num1 == 6 && sign == '/' && num2 == 0) 
-    std::cout << 6 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 6 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 6 && sign == '/' && num2 == 1) 
     std::cout << 6 << '/' << 1 << " = " << 6.000000 << std::endl;
 else if(num1 == 6 && sign == '/' && num2 == 2) 
@@ -16333,7 +16333,7 @@ else if(num1 == 6 && sign == '/' && num2 == 49)
 else if(num1 == 6 && sign == '/' && num2 == 50) 
     std::cout << 6 << '/' << 50 << " = " << 0.120000 << std::endl;
 else if(num1 == 7 && sign == '/' && num2 == 0) 
-    std::cout << 7 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 7 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 7 && sign == '/' && num2 == 1) 
     std::cout << 7 << '/' << 1 << " = " << 7.000000 << std::endl;
 else if(num1 == 7 && sign == '/' && num2 == 2) 
@@ -16435,7 +16435,7 @@ else if(num1 == 7 && sign == '/' && num2 == 49)
 else if(num1 == 7 && sign == '/' && num2 == 50) 
     std::cout << 7 << '/' << 50 << " = " << 0.140000 << std::endl;
 else if(num1 == 8 && sign == '/' && num2 == 0) 
-    std::cout << 8 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 8 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 8 && sign == '/' && num2 == 1) 
     std::cout << 8 << '/' << 1 << " = " << 8.000000 << std::endl;
 else if(num1 == 8 && sign == '/' && num2 == 2) 
@@ -16537,7 +16537,7 @@ else if(num1 == 8 && sign == '/' && num2 == 49)
 else if(num1 == 8 && sign == '/' && num2 == 50) 
     std::cout << 8 << '/' << 50 << " = " << 0.160000 << std::endl;
 else if(num1 == 9 && sign == '/' && num2 == 0) 
-    std::cout << 9 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 9 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 9 && sign == '/' && num2 == 1) 
     std::cout << 9 << '/' << 1 << " = " << 9.000000 << std::endl;
 else if(num1 == 9 && sign == '/' && num2 == 2) 
@@ -16639,7 +16639,7 @@ else if(num1 == 9 && sign == '/' && num2 == 49)
 else if(num1 == 9 && sign == '/' && num2 == 50) 
     std::cout << 9 << '/' << 50 << " = " << 0.180000 << std::endl;
 else if(num1 == 10 && sign == '/' && num2 == 0) 
-    std::cout << 10 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 10 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 10 && sign == '/' && num2 == 1) 
     std::cout << 10 << '/' << 1 << " = " << 10.000000 << std::endl;
 else if(num1 == 10 && sign == '/' && num2 == 2) 
@@ -16741,7 +16741,7 @@ else if(num1 == 10 && sign == '/' && num2 == 49)
 else if(num1 == 10 && sign == '/' && num2 == 50) 
     std::cout << 10 << '/' << 50 << " = " << 0.200000 << std::endl;
 else if(num1 == 11 && sign == '/' && num2 == 0) 
-    std::cout << 11 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 11 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 11 && sign == '/' && num2 == 1) 
     std::cout << 11 << '/' << 1 << " = " << 11.000000 << std::endl;
 else if(num1 == 11 && sign == '/' && num2 == 2) 
@@ -16843,7 +16843,7 @@ else if(num1 == 11 && sign == '/' && num2 == 49)
 else if(num1 == 11 && sign == '/' && num2 == 50) 
     std::cout << 11 << '/' << 50 << " = " << 0.220000 << std::endl;
 else if(num1 == 12 && sign == '/' && num2 == 0) 
-    std::cout << 12 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 12 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 12 && sign == '/' && num2 == 1) 
     std::cout << 12 << '/' << 1 << " = " << 12.000000 << std::endl;
 else if(num1 == 12 && sign == '/' && num2 == 2) 
@@ -16945,7 +16945,7 @@ else if(num1 == 12 && sign == '/' && num2 == 49)
 else if(num1 == 12 && sign == '/' && num2 == 50) 
     std::cout << 12 << '/' << 50 << " = " << 0.240000 << std::endl;
 else if(num1 == 13 && sign == '/' && num2 == 0) 
-    std::cout << 13 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 13 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 13 && sign == '/' && num2 == 1) 
     std::cout << 13 << '/' << 1 << " = " << 13.000000 << std::endl;
 else if(num1 == 13 && sign == '/' && num2 == 2) 
@@ -17047,7 +17047,7 @@ else if(num1 == 13 && sign == '/' && num2 == 49)
 else if(num1 == 13 && sign == '/' && num2 == 50) 
     std::cout << 13 << '/' << 50 << " = " << 0.260000 << std::endl;
 else if(num1 == 14 && sign == '/' && num2 == 0) 
-    std::cout << 14 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 14 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 14 && sign == '/' && num2 == 1) 
     std::cout << 14 << '/' << 1 << " = " << 14.000000 << std::endl;
 else if(num1 == 14 && sign == '/' && num2 == 2) 
@@ -17149,7 +17149,7 @@ else if(num1 == 14 && sign == '/' && num2 == 49)
 else if(num1 == 14 && sign == '/' && num2 == 50) 
     std::cout << 14 << '/' << 50 << " = " << 0.280000 << std::endl;
 else if(num1 == 15 && sign == '/' && num2 == 0) 
-    std::cout << 15 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 15 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 15 && sign == '/' && num2 == 1) 
     std::cout << 15 << '/' << 1 << " = " << 15.000000 << std::endl;
 else if(num1 == 15 && sign == '/' && num2 == 2) 
@@ -17251,7 +17251,7 @@ else if(num1 == 15 && sign == '/' && num2 == 49)
 else if(num1 == 15 && sign == '/' && num2 == 50) 
     std::cout << 15 << '/' << 50 << " = " << 0.300000 << std::endl;
 else if(num1 == 16 && sign == '/' && num2 == 0) 
-    std::cout << 16 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 16 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 16 && sign == '/' && num2 == 1) 
     std::cout << 16 << '/' << 1 << " = " << 16.000000 << std::endl;
 else if(num1 == 16 && sign == '/' && num2 == 2) 
@@ -17353,7 +17353,7 @@ else if(num1 == 16 && sign == '/' && num2 == 49)
 else if(num1 == 16 && sign == '/' && num2 == 50) 
     std::cout << 16 << '/' << 50 << " = " << 0.320000 << std::endl;
 else if(num1 == 17 && sign == '/' && num2 == 0) 
-    std::cout << 17 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 17 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 17 && sign == '/' && num2 == 1) 
     std::cout << 17 << '/' << 1 << " = " << 17.000000 << std::endl;
 else if(num1 == 17 && sign == '/' && num2 == 2) 
@@ -17455,7 +17455,7 @@ else if(num1 == 17 && sign == '/' && num2 == 49)
 else if(num1 == 17 && sign == '/' && num2 == 50) 
     std::cout << 17 << '/' << 50 << " = " << 0.340000 << std::endl;
 else if(num1 == 18 && sign == '/' && num2 == 0) 
-    std::cout << 18 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 18 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 18 && sign == '/' && num2 == 1) 
     std::cout << 18 << '/' << 1 << " = " << 18.000000 << std::endl;
 else if(num1 == 18 && sign == '/' && num2 == 2) 
@@ -17557,7 +17557,7 @@ else if(num1 == 18 && sign == '/' && num2 == 49)
 else if(num1 == 18 && sign == '/' && num2 == 50) 
     std::cout << 18 << '/' << 50 << " = " << 0.360000 << std::endl;
 else if(num1 == 19 && sign == '/' && num2 == 0) 
-    std::cout << 19 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 19 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 19 && sign == '/' && num2 == 1) 
     std::cout << 19 << '/' << 1 << " = " << 19.000000 << std::endl;
 else if(num1 == 19 && sign == '/' && num2 == 2) 
@@ -17659,7 +17659,7 @@ else if(num1 == 19 && sign == '/' && num2 == 49)
 else if(num1 == 19 && sign == '/' && num2 == 50) 
     std::cout << 19 << '/' << 50 << " = " << 0.380000 << std::endl;
 else if(num1 == 20 && sign == '/' && num2 == 0) 
-    std::cout << 20 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 20 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 20 && sign == '/' && num2 == 1) 
     std::cout << 20 << '/' << 1 << " = " << 20.000000 << std::endl;
 else if(num1 == 20 && sign == '/' && num2 == 2) 
@@ -17761,7 +17761,7 @@ else if(num1 == 20 && sign == '/' && num2 == 49)
 else if(num1 == 20 && sign == '/' && num2 == 50) 
     std::cout << 20 << '/' << 50 << " = " << 0.400000 << std::endl;
 else if(num1 == 21 && sign == '/' && num2 == 0) 
-    std::cout << 21 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 21 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 21 && sign == '/' && num2 == 1) 
     std::cout << 21 << '/' << 1 << " = " << 21.000000 << std::endl;
 else if(num1 == 21 && sign == '/' && num2 == 2) 
@@ -17863,7 +17863,7 @@ else if(num1 == 21 && sign == '/' && num2 == 49)
 else if(num1 == 21 && sign == '/' && num2 == 50) 
     std::cout << 21 << '/' << 50 << " = " << 0.420000 << std::endl;
 else if(num1 == 22 && sign == '/' && num2 == 0) 
-    std::cout << 22 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 22 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 22 && sign == '/' && num2 == 1) 
     std::cout << 22 << '/' << 1 << " = " << 22.000000 << std::endl;
 else if(num1 == 22 && sign == '/' && num2 == 2) 
@@ -17965,7 +17965,7 @@ else if(num1 == 22 && sign == '/' && num2 == 49)
 else if(num1 == 22 && sign == '/' && num2 == 50) 
     std::cout << 22 << '/' << 50 << " = " << 0.440000 << std::endl;
 else if(num1 == 23 && sign == '/' && num2 == 0) 
-    std::cout << 23 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 23 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 23 && sign == '/' && num2 == 1) 
     std::cout << 23 << '/' << 1 << " = " << 23.000000 << std::endl;
 else if(num1 == 23 && sign == '/' && num2 == 2) 
@@ -18067,7 +18067,7 @@ else if(num1 == 23 && sign == '/' && num2 == 49)
 else if(num1 == 23 && sign == '/' && num2 == 50) 
     std::cout << 23 << '/' << 50 << " = " << 0.460000 << std::endl;
 else if(num1 == 24 && sign == '/' && num2 == 0) 
-    std::cout << 24 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 24 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 24 && sign == '/' && num2 == 1) 
     std::cout << 24 << '/' << 1 << " = " << 24.000000 << std::endl;
 else if(num1 == 24 && sign == '/' && num2 == 2) 
@@ -18169,7 +18169,7 @@ else if(num1 == 24 && sign == '/' && num2 == 49)
 else if(num1 == 24 && sign == '/' && num2 == 50) 
     std::cout << 24 << '/' << 50 << " = " << 0.480000 << std::endl;
 else if(num1 == 25 && sign == '/' && num2 == 0) 
-    std::cout << 25 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 25 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 25 && sign == '/' && num2 == 1) 
     std::cout << 25 << '/' << 1 << " = " << 25.000000 << std::endl;
 else if(num1 == 25 && sign == '/' && num2 == 2) 
@@ -18271,7 +18271,7 @@ else if(num1 == 25 && sign == '/' && num2 == 49)
 else if(num1 == 25 && sign == '/' && num2 == 50) 
     std::cout << 25 << '/' << 50 << " = " << 0.500000 << std::endl;
 else if(num1 == 26 && sign == '/' && num2 == 0) 
-    std::cout << 26 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 26 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 26 && sign == '/' && num2 == 1) 
     std::cout << 26 << '/' << 1 << " = " << 26.000000 << std::endl;
 else if(num1 == 26 && sign == '/' && num2 == 2) 
@@ -18373,7 +18373,7 @@ else if(num1 == 26 && sign == '/' && num2 == 49)
 else if(num1 == 26 && sign == '/' && num2 == 50) 
     std::cout << 26 << '/' << 50 << " = " << 0.520000 << std::endl;
 else if(num1 == 27 && sign == '/' && num2 == 0) 
-    std::cout << 27 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 27 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 27 && sign == '/' && num2 == 1) 
     std::cout << 27 << '/' << 1 << " = " << 27.000000 << std::endl;
 else if(num1 == 27 && sign == '/' && num2 == 2) 
@@ -18475,7 +18475,7 @@ else if(num1 == 27 && sign == '/' && num2 == 49)
 else if(num1 == 27 && sign == '/' && num2 == 50) 
     std::cout << 27 << '/' << 50 << " = " << 0.540000 << std::endl;
 else if(num1 == 28 && sign == '/' && num2 == 0) 
-    std::cout << 28 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 28 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 28 && sign == '/' && num2 == 1) 
     std::cout << 28 << '/' << 1 << " = " << 28.000000 << std::endl;
 else if(num1 == 28 && sign == '/' && num2 == 2) 
@@ -18577,7 +18577,7 @@ else if(num1 == 28 && sign == '/' && num2 == 49)
 else if(num1 == 28 && sign == '/' && num2 == 50) 
     std::cout << 28 << '/' << 50 << " = " << 0.560000 << std::endl;
 else if(num1 == 29 && sign == '/' && num2 == 0) 
-    std::cout << 29 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 29 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 29 && sign == '/' && num2 == 1) 
     std::cout << 29 << '/' << 1 << " = " << 29.000000 << std::endl;
 else if(num1 == 29 && sign == '/' && num2 == 2) 
@@ -18679,7 +18679,7 @@ else if(num1 == 29 && sign == '/' && num2 == 49)
 else if(num1 == 29 && sign == '/' && num2 == 50) 
     std::cout << 29 << '/' << 50 << " = " << 0.580000 << std::endl;
 else if(num1 == 30 && sign == '/' && num2 == 0) 
-    std::cout << 30 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 30 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 30 && sign == '/' && num2 == 1) 
     std::cout << 30 << '/' << 1 << " = " << 30.000000 << std::endl;
 else if(num1 == 30 && sign == '/' && num2 == 2) 
@@ -18781,7 +18781,7 @@ else if(num1 == 30 && sign == '/' && num2 == 49)
 else if(num1 == 30 && sign == '/' && num2 == 50) 
     std::cout << 30 << '/' << 50 << " = " << 0.600000 << std::endl;
 else if(num1 == 31 && sign == '/' && num2 == 0) 
-    std::cout << 31 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 31 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 31 && sign == '/' && num2 == 1) 
     std::cout << 31 << '/' << 1 << " = " << 31.000000 << std::endl;
 else if(num1 == 31 && sign == '/' && num2 == 2) 
@@ -18883,7 +18883,7 @@ else if(num1 == 31 && sign == '/' && num2 == 49)
 else if(num1 == 31 && sign == '/' && num2 == 50) 
     std::cout << 31 << '/' << 50 << " = " << 0.620000 << std::endl;
 else if(num1 == 32 && sign == '/' && num2 == 0) 
-    std::cout << 32 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 32 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 32 && sign == '/' && num2 == 1) 
     std::cout << 32 << '/' << 1 << " = " << 32.000000 << std::endl;
 else if(num1 == 32 && sign == '/' && num2 == 2) 
@@ -18985,7 +18985,7 @@ else if(num1 == 32 && sign == '/' && num2 == 49)
 else if(num1 == 32 && sign == '/' && num2 == 50) 
     std::cout << 32 << '/' << 50 << " = " << 0.640000 << std::endl;
 else if(num1 == 33 && sign == '/' && num2 == 0) 
-    std::cout << 33 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 33 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 33 && sign == '/' && num2 == 1) 
     std::cout << 33 << '/' << 1 << " = " << 33.000000 << std::endl;
 else if(num1 == 33 && sign == '/' && num2 == 2) 
@@ -19087,7 +19087,7 @@ else if(num1 == 33 && sign == '/' && num2 == 49)
 else if(num1 == 33 && sign == '/' && num2 == 50) 
     std::cout << 33 << '/' << 50 << " = " << 0.660000 << std::endl;
 else if(num1 == 34 && sign == '/' && num2 == 0) 
-    std::cout << 34 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 34 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 34 && sign == '/' && num2 == 1) 
     std::cout << 34 << '/' << 1 << " = " << 34.000000 << std::endl;
 else if(num1 == 34 && sign == '/' && num2 == 2) 
@@ -19189,7 +19189,7 @@ else if(num1 == 34 && sign == '/' && num2 == 49)
 else if(num1 == 34 && sign == '/' && num2 == 50) 
     std::cout << 34 << '/' << 50 << " = " << 0.680000 << std::endl;
 else if(num1 == 35 && sign == '/' && num2 == 0) 
-    std::cout << 35 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 35 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 35 && sign == '/' && num2 == 1) 
     std::cout << 35 << '/' << 1 << " = " << 35.000000 << std::endl;
 else if(num1 == 35 && sign == '/' && num2 == 2) 
@@ -19291,7 +19291,7 @@ else if(num1 == 35 && sign == '/' && num2 == 49)
 else if(num1 == 35 && sign == '/' && num2 == 50) 
     std::cout << 35 << '/' << 50 << " = " << 0.700000 << std::endl;
 else if(num1 == 36 && sign == '/' && num2 == 0) 
-    std::cout << 36 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 36 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 36 && sign == '/' && num2 == 1) 
     std::cout << 36 << '/' << 1 << " = " << 36.000000 << std::endl;
 else if(num1 == 36 && sign == '/' && num2 == 2) 
@@ -19393,7 +19393,7 @@ else if(num1 == 36 && sign == '/' && num2 == 49)
 else if(num1 == 36 && sign == '/' && num2 == 50) 
     std::cout << 36 << '/' << 50 << " = " << 0.720000 << std::endl;
 else if(num1 == 37 && sign == '/' && num2 == 0) 
-    std::cout << 37 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 37 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 37 && sign == '/' && num2 == 1) 
     std::cout << 37 << '/' << 1 << " = " << 37.000000 << std::endl;
 else if(num1 == 37 && sign == '/' && num2 == 2) 
@@ -19495,7 +19495,7 @@ else if(num1 == 37 && sign == '/' && num2 == 49)
 else if(num1 == 37 && sign == '/' && num2 == 50) 
     std::cout << 37 << '/' << 50 << " = " << 0.740000 << std::endl;
 else if(num1 == 38 && sign == '/' && num2 == 0) 
-    std::cout << 38 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 38 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 38 && sign == '/' && num2 == 1) 
     std::cout << 38 << '/' << 1 << " = " << 38.000000 << std::endl;
 else if(num1 == 38 && sign == '/' && num2 == 2) 
@@ -19597,7 +19597,7 @@ else if(num1 == 38 && sign == '/' && num2 == 49)
 else if(num1 == 38 && sign == '/' && num2 == 50) 
     std::cout << 38 << '/' << 50 << " = " << 0.760000 << std::endl;
 else if(num1 == 39 && sign == '/' && num2 == 0) 
-    std::cout << 39 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 39 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 39 && sign == '/' && num2 == 1) 
     std::cout << 39 << '/' << 1 << " = " << 39.000000 << std::endl;
 else if(num1 == 39 && sign == '/' && num2 == 2) 
@@ -19699,7 +19699,7 @@ else if(num1 == 39 && sign == '/' && num2 == 49)
 else if(num1 == 39 && sign == '/' && num2 == 50) 
     std::cout << 39 << '/' << 50 << " = " << 0.780000 << std::endl;
 else if(num1 == 40 && sign == '/' && num2 == 0) 
-    std::cout << 40 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 40 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 40 && sign == '/' && num2 == 1) 
     std::cout << 40 << '/' << 1 << " = " << 40.000000 << std::endl;
 else if(num1 == 40 && sign == '/' && num2 == 2) 
@@ -19801,7 +19801,7 @@ else if(num1 == 40 && sign == '/' && num2 == 49)
 else if(num1 == 40 && sign == '/' && num2 == 50) 
     std::cout << 40 << '/' << 50 << " = " << 0.800000 << std::endl;
 else if(num1 == 41 && sign == '/' && num2 == 0) 
-    std::cout << 41 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 41 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 41 && sign == '/' && num2 == 1) 
     std::cout << 41 << '/' << 1 << " = " << 41.000000 << std::endl;
 else if(num1 == 41 && sign == '/' && num2 == 2) 
@@ -19903,7 +19903,7 @@ else if(num1 == 41 && sign == '/' && num2 == 49)
 else if(num1 == 41 && sign == '/' && num2 == 50) 
     std::cout << 41 << '/' << 50 << " = " << 0.820000 << std::endl;
 else if(num1 == 42 && sign == '/' && num2 == 0) 
-    std::cout << 42 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 42 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 42 && sign == '/' && num2 == 1) 
     std::cout << 42 << '/' << 1 << " = " << 42.000000 << std::endl;
 else if(num1 == 42 && sign == '/' && num2 == 2) 
@@ -20005,7 +20005,7 @@ else if(num1 == 42 && sign == '/' && num2 == 49)
 else if(num1 == 42 && sign == '/' && num2 == 50) 
     std::cout << 42 << '/' << 50 << " = " << 0.840000 << std::endl;
 else if(num1 == 43 && sign == '/' && num2 == 0) 
-    std::cout << 43 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 43 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 43 && sign == '/' && num2 == 1) 
     std::cout << 43 << '/' << 1 << " = " << 43.000000 << std::endl;
 else if(num1 == 43 && sign == '/' && num2 == 2) 
@@ -20107,7 +20107,7 @@ else if(num1 == 43 && sign == '/' && num2 == 49)
 else if(num1 == 43 && sign == '/' && num2 == 50) 
     std::cout << 43 << '/' << 50 << " = " << 0.860000 << std::endl;
 else if(num1 == 44 && sign == '/' && num2 == 0) 
-    std::cout << 44 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 44 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 44 && sign == '/' && num2 == 1) 
     std::cout << 44 << '/' << 1 << " = " << 44.000000 << std::endl;
 else if(num1 == 44 && sign == '/' && num2 == 2) 
@@ -20209,7 +20209,7 @@ else if(num1 == 44 && sign == '/' && num2 == 49)
 else if(num1 == 44 && sign == '/' && num2 == 50) 
     std::cout << 44 << '/' << 50 << " = " << 0.880000 << std::endl;
 else if(num1 == 45 && sign == '/' && num2 == 0) 
-    std::cout << 45 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 45 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 45 && sign == '/' && num2 == 1) 
     std::cout << 45 << '/' << 1 << " = " << 45.000000 << std::endl;
 else if(num1 == 45 && sign == '/' && num2 == 2) 
@@ -20311,7 +20311,7 @@ else if(num1 == 45 && sign == '/' && num2 == 49)
 else if(num1 == 45 && sign == '/' && num2 == 50) 
     std::cout << 45 << '/' << 50 << " = " << 0.900000 << std::endl;
 else if(num1 == 46 && sign == '/' && num2 == 0) 
-    std::cout << 46 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 46 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 46 && sign == '/' && num2 == 1) 
     std::cout << 46 << '/' << 1 << " = " << 46.000000 << std::endl;
 else if(num1 == 46 && sign == '/' && num2 == 2) 
@@ -20413,7 +20413,7 @@ else if(num1 == 46 && sign == '/' && num2 == 49)
 else if(num1 == 46 && sign == '/' && num2 == 50) 
     std::cout << 46 << '/' << 50 << " = " << 0.920000 << std::endl;
 else if(num1 == 47 && sign == '/' && num2 == 0) 
-    std::cout << 47 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 47 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 47 && sign == '/' && num2 == 1) 
     std::cout << 47 << '/' << 1 << " = " << 47.000000 << std::endl;
 else if(num1 == 47 && sign == '/' && num2 == 2) 
@@ -20515,7 +20515,7 @@ else if(num1 == 47 && sign == '/' && num2 == 49)
 else if(num1 == 47 && sign == '/' && num2 == 50) 
     std::cout << 47 << '/' << 50 << " = " << 0.940000 << std::endl;
 else if(num1 == 48 && sign == '/' && num2 == 0) 
-    std::cout << 48 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 48 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 48 && sign == '/' && num2 == 1) 
     std::cout << 48 << '/' << 1 << " = " << 48.000000 << std::endl;
 else if(num1 == 48 && sign == '/' && num2 == 2) 
@@ -20617,7 +20617,7 @@ else if(num1 == 48 && sign == '/' && num2 == 49)
 else if(num1 == 48 && sign == '/' && num2 == 50) 
     std::cout << 48 << '/' << 50 << " = " << 0.960000 << std::endl;
 else if(num1 == 49 && sign == '/' && num2 == 0) 
-    std::cout << 49 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 49 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 49 && sign == '/' && num2 == 1) 
     std::cout << 49 << '/' << 1 << " = " << 49.000000 << std::endl;
 else if(num1 == 49 && sign == '/' && num2 == 2) 
@@ -20719,7 +20719,7 @@ else if(num1 == 49 && sign == '/' && num2 == 49)
 else if(num1 == 49 && sign == '/' && num2 == 50) 
     std::cout << 49 << '/' << 50 << " = " << 0.980000 << std::endl;
 else if(num1 == 50 && sign == '/' && num2 == 0) 
-    std::cout << 50 << '/' << 0 << " = " << INF << std::endl;
+    std::cout << 50 << '/' << 0 << " = " << 0.000000 << std::endl;
 else if(num1 == 50 && sign == '/' && num2 == 1) 
     std::cout << 50 << '/' << 1 << " = " << 50.000000 << std::endl;
 else if(num1 == 50 && sign == '/' && num2 == 2) 
