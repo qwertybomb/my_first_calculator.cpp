@@ -25,13 +25,13 @@ void get_formated_string(const ptrdiff_t &num1, const ptrdiff_t &num2,
 }
 
 int main() {
-  constexpr size_t min = 0;
-  constexpr size_t max = 50;
+  constexpr ptrdiff_t min = -100;
+  constexpr ptrdiff_t max = 100;
   const char signs[] = "+-*/";
   char if_statment[200];
   // open file
   std::ofstream output_file("my_first_calculator.cpp");
-  char output_cpp[450];
+  char output_cpp[460];
   sprintf(&output_cpp[0],
           "#include<iostream>\n\n"
           "int main() { \n"
@@ -39,7 +39,7 @@ int main() {
           "char sign;\n"
           "std::cout << \"Welcome to this calculator\" << std::endl;\n"
           "std::cout << \"It can add, subtract, multiply and divide whole "
-          "numbers from %zu to %zu\" << std::endl;\n"
+          "numbers from %td to %td\" << std::endl;\n"
           "std::cout << \"Please choose your first number: \";\n"
           "std::cin >> num1;\n"
           "std::cout << \"What do you want to do? +, -, /, or *: \";\n"
@@ -49,10 +49,10 @@ int main() {
           min, max);
   output_file << output_cpp << '\n';
   for (int i = 0; i < 4; ++i) {
-    for (ptrdiff_t num1 = min; static_cast<size_t>(num1) <= max; ++num1) {
-      for (ptrdiff_t num2 = min; static_cast<size_t>(num2) <= max; ++num2) {
+    for (ptrdiff_t num1 = min; num1 <= max; ++num1) {
+      for (ptrdiff_t num2 = min; num2 <= max; ++num2) {
         get_formated_string(num1, num2, signs[i], if_statment,
-                            !i && !num1 && !num2);
+                            !i && num1 == min && num2 == min);
         output_file << if_statment;
       }
     }
